@@ -10,6 +10,8 @@ Spanish version: [docs/readme-es.md](docs/readme-es.md)
 
 Official website: https://paybrok.com
 
+Public documentation sitemap: https://paybrok.github.io/paybrok/sitemap.xml
+
 ## Why Paybrok Exists
 
 Digital dollars are useful, but everyday payments still have friction:

@@ -23,3 +23,4 @@ Paybrok brings together wallet, QR payments, payment links, P2P local liquidity,
 
 Official website: [paybrok.com](https://paybrok.com)
 
+Search sitemap: [paybrok.github.io/paybrok/sitemap.xml](https://paybrok.github.io/paybrok/sitemap.xml)
