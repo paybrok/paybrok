@@ -1,0 +1,8 @@
+title: Paybrok
+description: Public documentation for Paybrok, a non-custodial wallet and protected payment platform for digital-dollar payments.
+url: "https://paybrok.github.io"
+baseurl: "/paybrok"
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-sitemap
+
