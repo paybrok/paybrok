@@ -21,6 +21,28 @@ Los dolares digitales son utiles, pero los pagos reales todavia tienen friccion:
 
 Paybrok une estos flujos en un solo producto: wallet, QR, P2P, escrow, pagos por hitos, remesas, proveedores, disputas y notificaciones.
 
+## Por Que Paybrok Es Diferente
+
+Paybrok no es solo otra wallet, y no es solo un tablero P2P. Su fuerza esta en conectar el recorrido completo del pago en un solo producto.
+
+Muchas herramientas resuelven una sola parte: guardar fondos, enviar cripto, cobrar con QR, encontrar comprador local, coordinar una remesa o manejar un pago por servicio. Paybrok une esas capas:
+
+- Wallet de autocustodia.
+- QR y enlaces de pago.
+- Proveedores locales.
+- Liquidez P2P.
+- Escrow.
+- Pagos por hitos.
+- Flujos tipo remesa.
+- Disputas con evidencia.
+- Notificaciones.
+- Revision de proveedores.
+- Controles de riesgo y sanciones.
+- Boveda local cifrada y protecciones de desbloqueo local.
+- Proteccion contra intentos repetidos en flujos sensibles.
+
+Esa combinacion es la ventaja de Paybrok: el usuario puede pasar de tener dolares digitales a usarlos en pagos reales, con mas estructura y proteccion que una transferencia informal o un acuerdo por chat.
+
 ## Que Puede Hacer Un Usuario
 
 ### Wallet
@@ -144,6 +166,7 @@ El usuario debe guardar sus palabras de recuperacion. Si pierde el dispositivo/n
 
 - [Resumen del Producto](product-overview.md)
 - [Resumen del Producto ES](product-overview-es.md)
+- [Posicionamiento](market-positioning-es.md)
 - [Funciones](features-es.md)
 - [Capacidades](capacidades-es.md)
 - [Wallet](wallet-es.md)

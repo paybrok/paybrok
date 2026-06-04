@@ -46,6 +46,22 @@ Conceptos publicos:
 
 Esta seccion describe el comportamiento publico, no detalles internos de implementacion.
 
+## Diferenciadores De Seguridad
+
+La ventaja de seguridad de Paybrok no es un solo control aislado. Combina varias capas para apoyar pagos reales:
+
+- Modelo de wallet no custodial.
+- Boveda web local cifrada.
+- Desbloqueo local para acciones sensibles.
+- Proteccion contra intentos repetidos.
+- Escrow para P2P, remesas y pagos por servicios.
+- Evidencia y revision de disputas.
+- Revision de proveedores.
+- Controles de sanciones y riesgo.
+- Politica publica AML/CTF.
+
+Estas capas ayudan a que Paybrok soporte pagos en dolares digitales sin depender solo de confianza ciega entre usuarios.
+
 ## Seguridad De Escrow
 
 El escrow ayuda a reducir riesgo evitando liberar fondos antes de que se complete lo acordado.
@@ -73,4 +89,3 @@ Paybrok aplica controles operativos para apoyar uso mas seguro:
 - Revision manual cuando corresponda.
 
 Estos controles ayudan, pero no garantizan que toda contraparte sea segura ni que toda orden termine exitosamente.
-

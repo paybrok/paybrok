@@ -23,6 +23,28 @@ Digital dollars are useful, but everyday payments still have friction:
 
 Paybrok brings these flows into one product: wallet, QR, P2P, escrow, service milestones, remittances, providers, disputes, and notifications.
 
+## Why Paybrok Is Different
+
+Paybrok is not just another wallet, and it is not just a P2P listing board. Its strength is that it connects the full payment journey in one product.
+
+Many tools solve only one piece: storing funds, sending crypto, making QR requests, finding a local buyer, coordinating a remittance, or managing a service payment. Paybrok brings these layers together:
+
+- Self-custody wallet.
+- QR and payment links.
+- Local providers.
+- P2P liquidity.
+- Escrow.
+- Service milestones.
+- Remittance-style flows.
+- Disputes with evidence.
+- Notifications.
+- Provider review.
+- Risk and sanctions controls.
+- Local encrypted vault and local unlock protections.
+- Brute-force protection concepts for sensitive unlock flows.
+
+That combination is Paybrok's advantage: users can move from holding digital dollars to actually using them in real-world payments, with more structure and protection than an informal transfer or chat-based deal.
+
 ## What Users Can Do
 
 ### Wallet
@@ -146,6 +168,7 @@ Users must keep their recovery words safe. If a user loses the device/browser st
 
 - [Product Overview](docs/product-overview.md)
 - [Product Overview ES](docs/product-overview-es.md)
+- [Market Positioning](docs/market-positioning.md) / [Posicionamiento ES](docs/market-positioning-es.md)
 - [Features](docs/features.md) / [Funciones ES](docs/features-es.md)
 - [Capabilities](docs/capabilities.md) / [Capacidades ES](docs/capacidades-es.md)
 - [Wallet](docs/wallet.md) / [Wallet ES](docs/wallet-es.md)

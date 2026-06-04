@@ -46,6 +46,22 @@ Public security concept:
 
 This section describes the public security behavior only. It does not expose internal implementation details.
 
+## Security Differentiators
+
+Paybrok's security advantage is not one isolated control. It combines several layers that support real payment use:
+
+- Self-custody wallet model.
+- Local encrypted web vault.
+- Local unlock for sensitive actions.
+- Repeated-attempt protection concepts.
+- Escrow for P2P, remittances, and service payments.
+- Dispute evidence and review workflows.
+- Provider review.
+- Sanctions and risk controls.
+- AML/CTF public policy.
+
+Together, these controls help Paybrok support practical digital-dollar payments without relying only on blind trust between users.
+
 ## Escrow Security
 
 Escrow helps reduce risk by preventing immediate release of funds before the agreed action is completed.
@@ -97,4 +113,3 @@ These controls help protect users and the platform, but they do not guarantee th
 - Paybrok cannot guarantee local liquidity, rates, or provider availability.
 - Paybrok cannot eliminate all fraud risk.
 - Paybrok cannot replace careful documentation for high-value agreements.
-
