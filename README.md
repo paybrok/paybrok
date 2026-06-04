@@ -1,162 +1,79 @@
 # Paybrok
 
-Paybrok is a native non-custodial wallet and payment app built in Flutter for real-world digital payments on Stellar.
+Spanish version: [docs/readme-es.md](docs/readme-es.md)
 
-Paybrok helps people send, receive, request, scan, and track payments through a simple native experience on Android, iOS, and web. It is designed for everyday payment activity: QR payments, payment links, wallet movements, P2P flows where available, and reward-oriented features based on real usage.
+Paybrok is a non-custodial wallet and protected payment platform built for people and businesses that need to pay, get paid, and move digital dollars without giving up control of their funds.
+
+Paybrok focuses on practical payments: wallet, QR collection, P2P local liquidity, protected service payments, remittances, escrow, disputes, notifications, and operational tools for approved providers.
+
+> Paybrok: pay and get paid in digital dollars.
 
 Official website: https://paybrok.com
 
-Paybrok is associated with Paybrok LLC, a Wyoming limited liability company in the United States.
+## What Paybrok Solves
 
-Paybrok has been presented and discussed in startup, fintech, crypto, and Stellar ecosystem contexts, including spaces such as Emerge, Consensus, and Starco.
+Many people can receive or hold digital dollars, but still face friction when they need to:
 
-## Short Description
+- Pay someone safely before a service is delivered.
+- Convert between digital dollars and local payment methods.
+- Collect with QR or payment links.
+- Send money across countries using trusted local rails.
+- Avoid sending funds blindly to unknown counterparties.
+- Keep custody of their own wallet while still using a structured marketplace.
 
-Paybrok is a native non-custodial wallet and payments platform on Stellar. It lets users create or use a Paybrok wallet, send and receive supported assets, request payments by QR or link, scan payment QR codes, review wallet movements, and access P2P and reward features where enabled.
+Paybrok combines wallet self-custody with marketplace workflows and escrow protection.
 
-## What Paybrok Is
+## Main Capabilities
 
-Paybrok is:
-
-- A native non-custodial wallet experience.
-- A payment app for sending and receiving digital assets.
-- A QR and payment-link tool for requesting payments.
-- A Flutter app for Android, iOS, and web.
-- A Stellar-based payments product.
-- A product focused on wallet activity, payments, P2P flows, and rewards.
-- A practical interface for people who want to use crypto payments without dealing with unnecessary complexity.
+- Non-custodial wallet on Stellar.
+- Support for digital assets such as USDC, EURC, XLM, and BROK where enabled.
+- Web wallet with local encrypted vault.
+- Android/mobile app wallet experience.
+- Freighter support for advanced web users.
+- QR collection and payment links.
+- Local QR payment flow for country-specific payment methods.
+- P2P marketplace for buying and selling digital dollars.
+- Escrow-protected P2P orders.
+- Protected service payments by milestones.
+- Remittance flows through approved local bridges.
+- Provider/merchant tools for local liquidity.
+- Dispute workflow with evidence.
+- Notifications for order and wallet events.
+- Legal, privacy, AML/CTF, and user safety notices.
+- Soroban escrow support where enabled.
 
 ## What Paybrok Is Not
 
-Paybrok is not Freighter.
+- Paybrok is not a bank.
+- Paybrok does not custody user funds in the basic wallet model.
+- Paybrok does not store a user's seed phrase on Paybrok servers.
+- Paybrok does not guarantee third-party liquidity, exchange rates, fiat availability, or provider availability.
+- Paybrok does not replace legal agreements between clients and service providers.
+- Paybrok does not ask for a user's seed phrase by chat, email, Telegram, support message, or phone.
 
-Freighter is a Stellar browser wallet and it does exist as a useful ecosystem tool. In Paybrok, Freighter is optional and intended mainly for advanced users or specific web flows. Paybrok is its own native wallet and payment app. Paybrok has native Android, iOS, and web flows where users can send, receive, charge by QR/link, scan QR codes, and manage wallet activity without needing Freighter as the core product.
+## Documentation
 
-Paybrok is not:
+- [Capabilities](docs/capabilities.md)
+- [Wallet](docs/wallet.md)
+- [P2P and Escrow](docs/p2p-escrow.md)
+- [Protected Service Payments](docs/service-contracts.md)
+- [Local QR Payments](docs/local-qr-payments.md)
+- [Remittances](docs/remittances.md)
+- [Providers](docs/providers.md)
+- [Security](docs/security.md)
+- [Compliance and Legal Position](docs/compliance.md)
+- [FAQ](docs/faq.md)
+- [Public Roadmap](docs/roadmap.md)
 
-- A Freighter-only product.
-- A browser extension.
-- A block or restriction system.
-- A custodial bank.
-- A centralized exchange.
-- A service that takes custody of user funds.
+## Status
 
-## Product Nature
+Paybrok is in active development and beta preparation. Features may vary by platform, country, asset, provider availability, compliance review, and operational configuration.
 
-Paybrok is designed as a native non-custodial product. Users control their wallet. Paybrok focuses on usability around payments, not custody.
-
-The app is built around Stellar-compatible payment flows and can support assets such as XLM and other supported issued assets where available.
-
-Paybrok is associated with Paybrok LLC, a Wyoming LLC in the United States. This public repository is informational and does not replace official legal, compliance, or support channels.
-
-## Public Presence
-
-Paybrok is an active product project, not a placeholder name. The project has been shared, discussed, or presented in startup, fintech, crypto, and Stellar ecosystem contexts, including spaces such as:
-
-- Emerge
-- Consensus
-- Starco
-
-This repository provides public product information and documentation for Paybrok.
-
-## Main Features
-
-### Wallet
-
-- Create or use a Paybrok wallet.
-- View wallet balances.
-- Copy and share wallet addresses.
-- Review wallet status and activity.
-
-### Send
-
-- Send supported assets.
-- Paste a destination address.
-- Open payment links that pre-fill payment details.
-- Scan QR codes to load a destination and payment request.
-
-### Receive And Charge
-
-- Receive funds into a Paybrok wallet.
-- Generate QR codes.
-- Create payment requests.
-- Share payment links.
-- Let another user scan or open a payment request with the details ready.
-
-### QR Payments
-
-- Scan QR codes from Paybrok payment requests.
-- Scan Stellar-compatible wallet/payment QR payloads where supported.
-- Use QR links for simple mobile payment flows.
-
-### Movements
-
-- View payment history.
-- Search wallet movements.
-- Filter by incoming, outgoing, fees, date, and asset.
-- Export or review movement details where available.
-
-### P2P
-
-- Access peer-to-peer payment or market flows where enabled.
-- Create, take, cancel, or review P2P orders where supported by the active product configuration.
-- Receive notifications for relevant P2P activity where supported.
-
-### Rewards And Score
-
-- Paybrok can include reward-oriented features.
-- User activity may contribute to score or reward views where available.
-- Rewards are designed around real wallet/payment activity, not passive account display.
-
-### Web And Mobile
-
-- Paybrok has a web experience at https://paybrok.com.
-- Paybrok is built in Flutter for Android, iOS, and web.
-- The web experience may support browser-wallet integrations.
-- Freighter is optional for advanced users and selected web flows.
-- The native Paybrok wallet experience is not dependent on Freighter as the core flow.
-
-## Relationship With Stellar
-
-Paybrok is built for Stellar-based payments. Stellar is used as the network layer for supported wallet and asset movement flows.
-
-Paybrok can support assets such as:
-
-- XLM
-- USDC where supported
-- Other issued assets where enabled
-
-Asset availability may depend on product configuration, network support, jurisdiction, and release status.
-
-## Relationship With Freighter
-
-Freighter is optional context for advanced users and selected web flows.
-
-Correct:
-
-> Paybrok may support Freighter as an optional advanced web wallet integration.
-
-Incorrect:
-
-> Paybrok is Freighter.
-
-Incorrect:
-
-> Paybrok only works as a Freighter flow.
-
-Paybrok is a separate product with its own native Android, iOS, and web wallet/payment experience.
-
-## Spanish Summary
-
-Paybrok es una wallet nativa y app de pagos no custodial construida en Flutter sobre Stellar para Android, iOS y web. Permite enviar, recibir, cobrar con QR o link, escanear pagos, revisar movimientos, y usar funciones P2P o recompensas cuando estan disponibles.
-
-Paybrok no es Freighter. Freighter existe y puede ser una integracion opcional para usuarios avanzados o flujos web especificos, pero Paybrok tiene wallet nativa propia para Android, iOS y web.
-
-Paybrok esta asociado con Paybrok LLC, una LLC de Wyoming, Estados Unidos. El proyecto ha sido presentado o discutido en espacios del ecosistema startup, fintech, cripto y Stellar, incluyendo Emerge, Consensus y Starco.
-
-## Links
+## Public Contact
 
 - Website: https://paybrok.com
-- Public documentation: see the `docs/` folder in this repository.
-- Market positioning: [docs/market-positioning.md](docs/market-positioning.md)
-- Support: use the official support flow inside Paybrok or the official website.
+- Support: support@paybrok.com
+- Legal: legal@paybrok.com
+- Privacy: privacy@paybrok.com
+- Compliance: compliance@paybrok.com
+

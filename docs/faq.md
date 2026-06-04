@@ -1,29 +1,42 @@
-# Paybrok FAQ
-
-## Is Paybrok Freighter?
-
-No. Paybrok is not Freighter. Freighter is a Stellar browser wallet and it exists as a useful ecosystem tool. Paybrok may support Freighter as an optional integration for advanced users or selected web flows, but Paybrok is its own native wallet and payment app.
-
-## Is Paybrok non-custodial?
-
-Yes. Paybrok is designed as a non-custodial wallet/payment experience. Users control their wallet.
+# FAQ
 
 ## Is Paybrok a bank?
 
 No. Paybrok is not a bank.
 
-## What network does Paybrok use?
+## Does Paybrok custody my funds?
 
-Paybrok is built around Stellar-compatible payments.
+Paybrok is designed as a non-custodial wallet. Users control their wallet credentials. Escrow flows may lock funds for a specific order, but the base wallet model is self-custody.
 
-## What can users do with Paybrok?
+## Can Paybrok recover my wallet if I lose my recovery words?
 
-Users can send, receive, request payment by QR or link, scan QR payments, review wallet movements, and use P2P or reward features where available.
+No. If the user loses the recovery words and local wallet storage is gone, Paybrok cannot recover the wallet.
 
-## Does Paybrok work on mobile?
+## What is escrow?
 
-Paybrok is built in Flutter for Android, iOS, and web.
+Escrow means funds are locked while an order or service is being completed. Funds are released when conditions are met or reviewed during a dispute.
 
-## Where is Paybrok available?
+## Who is a provider?
 
-Public availability can depend on release status, platform, region, and product configuration.
+A provider is a person or business that delivers a service, local payment, liquidity, or remittance bridge. In a service example, the architect is the provider.
+
+## Can I pay for services like architecture?
+
+Yes. Paybrok supports protected service payments by milestones. For example, a 100 USDC architecture project can be split into 30/40/30 USDC releases.
+
+## Does Paybrok support local QR payments?
+
+Paybrok can scan or process local QR/payment-link data where available. Some QR systems only expose a proprietary link; in those cases Paybrok preserves the link/reference and shares it with compatible providers.
+
+## Does Paybrok work on iPhone web browsers?
+
+Paybrok web wallet logic applies to web browsers. However, browser storage can vary between Safari, Chrome, private mode, and other browser containers. Users should keep recovery words safe.
+
+## Is Freighter required?
+
+No. Freighter is an advanced option for web users who already use it. Paybrok also supports a web wallet flow with local encrypted vault.
+
+## Are all features available everywhere?
+
+No. Availability depends on country, platform, provider liquidity, compliance, asset support, and operational configuration.
+
