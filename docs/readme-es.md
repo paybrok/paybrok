@@ -1,69 +1,165 @@
 # Paybrok
 
-Paybrok es una wallet no custodial y una plataforma de pagos protegidos para personas, comercios y proveedores que necesitan pagar, cobrar y mover dolares digitales sin perder control de sus fondos.
+Paybrok es una wallet no custodial y una plataforma de pagos protegidos para personas, comercios, freelancers, prestadores de servicios y proveedores locales que necesitan usar dolares digitales en la vida real.
 
-Paybrok se enfoca en pagos practicos: wallet, cobro con QR, liquidez local P2P, pagos protegidos por servicios, remesas, escrow, disputas, notificaciones y herramientas operativas para proveedores aprobados.
+Con Paybrok, un usuario puede crear una wallet, recibir dolares digitales, cobrar con QR, enviar fondos, usar proveedores locales, proteger un pago por servicio con escrow, enviar valor por rutas disponibles y documentar disputas si algo sale mal.
 
-> Paybrok: paga y cobra en dolares digitales.
+> Paybrok ayuda a pagar y cobrar en dolares digitales sin perder control de la wallet.
 
-## Que Problema Resuelve Paybrok
+Sitio oficial: https://paybrok.com
 
-Muchas personas pueden tener dolares digitales, pero todavia tienen friccion cuando necesitan:
+## Por Que Existe Paybrok
 
-- Pagar un servicio sin entregar todo el dinero por adelantado.
-- Cambiar entre dolares digitales y metodos de pago locales.
-- Cobrar con QR o enlaces de pago.
-- Enviar dinero entre paises usando proveedores locales.
-- Evitar enviar fondos a desconocidos sin proteccion.
-- Mantener control de su propia wallet.
+Los dolares digitales son utiles, pero los pagos reales todavia tienen friccion:
 
-Paybrok combina autocustodia de wallet con flujos de mercado y proteccion por escrow.
+- Un cliente no quiere pagar todo antes de recibir un trabajo.
+- Un profesional quiere saber que el cliente si tiene fondos.
+- Una persona quiere pagar un QR local pero tiene dolares digitales.
+- Un comercio quiere cobrar con link o QR sin enviar direcciones manualmente.
+- Un usuario quiere mover valor entre paises con un proveedor local.
+- Un comprador y vendedor necesitan una forma mas segura de coordinar un pago P2P.
 
-## Capacidades Principales
+Paybrok une estos flujos en un solo producto: wallet, QR, P2P, escrow, pagos por hitos, remesas, proveedores, disputas y notificaciones.
 
-- Wallet no custodial sobre Stellar.
-- Soporte para activos digitales como USDC, EURC, XLM y BROK donde este habilitado.
-- Wallet web con boveda local cifrada.
-- Experiencia de wallet en Android/mobile.
-- Freighter como opcion avanzada para usuarios web.
-- Cobro con QR y enlaces de pago.
-- Pago de QR locales segun pais y metodo.
-- Mercado P2P para comprar y vender dolares digitales.
-- Ordenes P2P protegidas con escrow.
-- Pagos protegidos por servicios y por hitos.
-- Remesas usando puentes/proveedores locales aprobados.
-- Herramientas para proveedores y comercios.
-- Flujo de disputas con evidencia.
-- Notificaciones de ordenes y eventos importantes.
-- Politicas de seguridad, privacidad, AML/CTF y terminos.
-- Soporte de escrow Soroban donde este habilitado.
+## Que Puede Hacer Un Usuario
+
+### Wallet
+
+- Crear una wallet Paybrok.
+- Restaurar una wallet con palabras de recuperacion.
+- Ver balances y estado de wallet.
+- Enviar activos compatibles.
+- Recibir activos compatibles.
+- Copiar, compartir o escanear informacion de pago.
+- Revisar historial de movimientos.
+- Usar wallet web con boveda local cifrada.
+- Usar Freighter como opcion web avanzada donde este disponible.
+
+### QR y Enlaces de Pago
+
+- Crear QR para cobrar.
+- Crear enlaces de pago.
+- Escanear QR de pago.
+- Abrir links Paybrok con datos prellenados.
+- Usar flujos de QR local cuando Paybrok detecta pais, metodo, monto, comercio, referencia o link del proveedor.
+
+### Paybrok Local
+
+Paybrok Local conecta dolares digitales con metodos de pago locales usando proveedores aprobados.
+
+Los usuarios pueden:
+
+- Comprar o vender dolares digitales donde exista liquidez.
+- Elegir pais, activo, monto y metodo.
+- Conectar con proveedores locales.
+- Usar proteccion por escrow.
+- Seguir el estado de la orden.
+- Abrir disputa con evidencia si hace falta.
+
+### Pagos Protegidos Por Servicios
+
+Paybrok puede proteger pagos de servicios dividiendo un proyecto por hitos.
+
+Ejemplo:
+
+Un cliente contrata a un arquitecto por 100 USDC. En vez de pagar todo por adelantado, puede dividir el pago:
+
+- 30 USDC por concepto inicial.
+- 40 USDC por avance revisado.
+- 30 USDC por entrega final.
+
+Los fondos pueden quedar bloqueados en escrow y liberarse segun la entrega. Si el trabajo no se entrega, el cliente puede abrir una disputa con evidencia.
+
+Puede ser util para:
+
+- Arquitectura.
+- Diseno.
+- Reparaciones.
+- Construccion.
+- Consultoria.
+- Servicios tecnologicos.
+- Trabajo freelance.
+
+### Remesas
+
+Paybrok soporta flujos tipo remesa mediante proveedores o puentes aprobados donde exista disponibilidad.
+
+Los usuarios pueden:
+
+- Elegir una ruta.
+- Elegir monto y activo.
+- Seleccionar proveedor o metodo de entrega cuando exista.
+- Bloquear fondos en escrow.
+- Confirmar entrega o abrir disputa.
+
+### Proveedores y Comercios
+
+Los proveedores aprobados pueden apoyar liquidez local, remesas, pagos QR locales o servicios.
+
+Capacidades posibles:
+
+- Aceptar ordenes locales.
+- Ofrecer metodos de pago por pais.
+- Entregar pagos locales.
+- Soportar rutas de remesa.
+- Participar en pagos protegidos por servicios.
+- Construir reputacion operativa con ordenes completadas.
+
+### Disputas
+
+Paybrok incluye flujo de disputas para documentar problemas y no depender solo de conversaciones informales.
+
+La evidencia puede incluir:
+
+- Capturas.
+- Comprobantes de pago.
+- Conversaciones.
+- Prueba de entrega.
+- Hashes de transaccion.
+- Referencias de pago local.
+
+## Seguridad
+
+Paybrok esta disenado alrededor de autocustodia.
+
+- Paybrok no pide enviar la seed phrase a servidores de Paybrok.
+- Paybrok no pide palabras de recuperacion por Telegram, email, chat, telefono ni mensajes de proveedores.
+- La wallet web usa una boveda local cifrada.
+- Las acciones sensibles requieren desbloqueo local cuando aplica.
+- El escrow ayuda a reducir riesgo entre partes.
+- La revision de proveedores, controles de riesgo/sanciones y documentacion de disputas ayudan a operar con mas seguridad.
+
+El usuario debe guardar sus palabras de recuperacion. Si pierde el dispositivo/navegador y no tiene sus palabras, Paybrok no puede recuperar la wallet.
 
 ## Que No Es Paybrok
 
 - Paybrok no es un banco.
-- Paybrok no custodia los fondos del usuario en el modelo basico de wallet.
-- Paybrok no guarda la seed phrase del usuario en servidores de Paybrok.
-- Paybrok no garantiza liquidez, tasa de cambio, disponibilidad fiat ni disponibilidad de proveedores.
-- Paybrok no reemplaza contratos legales formales entre clientes y prestadores de servicios.
-- Paybrok no pide la seed phrase por chat, email, Telegram, soporte ni telefono.
+- Paybrok no es un exchange centralizado.
+- Paybrok no garantiza liquidez local ni tasas de cambio.
+- Paybrok no garantiza que todos los proveedores, paises, activos o rutas esten siempre disponibles.
+- Paybrok no reemplaza un contrato legal formal para servicios de alto valor.
+- Paybrok no elimina todo riesgo de fraude; ofrece estructura, escrow, evidencia y revision.
 
-## Areas del Producto
+## Documentacion
 
-- [Capacidades](CAPACIDADES_ES.md)
-- [Wallet](WALLET.md)
-- [P2P y Escrow](P2P_ESCROW.md)
-- [Pagos Protegidos por Servicios](SERVICE_CONTRACTS.md)
-- [Pagos QR Locales](LOCAL_QR_PAYMENTS.md)
-- [Remesas](REMITTANCES.md)
-- [Proveedores](PROVIDERS.md)
-- [Seguridad](SECURITY.md)
-- [Compliance](COMPLIANCE.md)
-- [FAQ](FAQ.md)
-- [Roadmap Publico](ROADMAP.md)
+- [Resumen del Producto](product-overview.md)
+- [Resumen del Producto ES](product-overview-es.md)
+- [Funciones](features-es.md)
+- [Capacidades](capacidades-es.md)
+- [Wallet](wallet-es.md)
+- [P2P y Escrow](p2p-escrow-es.md)
+- [Pagos Protegidos Por Servicios](service-contracts-es.md)
+- [Pagos QR Locales](local-qr-payments-es.md)
+- [Remesas](remittances-es.md)
+- [Proveedores](providers-es.md)
+- [Seguridad](security-es.md)
+- [Compliance](compliance-es.md)
+- [FAQ](faq-es.md)
+- [Roadmap Publico](roadmap-es.md)
 
 ## Estado
 
-Paybrok esta en desarrollo activo y preparacion de beta. La disponibilidad de funciones puede variar por plataforma, pais, activo, proveedor, revision de cumplimiento y configuracion operativa.
+Paybrok esta en desarrollo activo y preparacion de beta. La disponibilidad de funciones puede variar por plataforma, pais, activo, liquidez de proveedores, revision de cumplimiento y configuracion operativa.
 
 ## Contacto Publico
 
@@ -72,4 +168,3 @@ Paybrok esta en desarrollo activo y preparacion de beta. La disponibilidad de fu
 - Legal: legal@paybrok.com
 - Privacidad: privacy@paybrok.com
 - Compliance: compliance@paybrok.com
-

@@ -1,47 +1,95 @@
 # Paybrok Features
 
-This page lists public product features and concepts for Paybrok.
+This page lists Paybrok's public product features in human terms.
 
 ## Wallet
 
-Paybrok provides a native wallet-centered experience where users can view balances, copy addresses, receive assets, and review wallet activity.
+- Create a non-custodial wallet.
+- Restore a wallet with recovery words.
+- View balances.
+- View public address.
+- Send supported assets.
+- Receive supported assets.
+- Review wallet movements.
+- Use mobile and web wallet flows.
 
-## Send Payments
+## Web Wallet
 
-Users can send supported assets to a destination wallet. Payment details may be entered manually, pasted from a link, or loaded from a QR code.
+- Store wallet material locally in an encrypted browser vault.
+- Unlock sensitive actions with a local password.
+- Recover wallet state when the encrypted vault remains available.
+- Use Freighter as an advanced external signer where supported.
 
-## Receive Payments
+## QR and Payment Links
 
-Users can receive supported assets into their Paybrok wallet. The app can show wallet addresses and QR-based receive flows.
+- Create payment QR codes.
+- Create payment links.
+- Scan wallet and payment QR codes.
+- Open payment links with pre-filled details.
+- Preserve local QR references when a provider-specific QR does not expose full payment data.
 
-## Charge By QR Or Link
+## Paybrok Local
 
-Paybrok supports payment requests by QR or link. This makes it possible to request a payment with details already prepared for the payer.
+- Connect digital dollars with local payment methods.
+- Let users buy or sell digital dollars through approved providers where available.
+- Filter by country, asset, amount, and method.
+- Use escrow protection for P2P orders.
+- Track order status.
+- Open disputes.
 
-## Scan QR
+## Local QR Payments
 
-Paybrok includes QR scanning flows so a user can scan a payment request or wallet address and continue into a payment flow.
+- Read local QR/payment-link content where available.
+- Detect country, method, amount, merchant, or reference when possible.
+- Share provider links or QR contents with compatible providers.
+- Support local payment ecosystems depending on provider availability.
 
-## Movements
+## Protected Service Payments
 
-Paybrok includes wallet movement history. Users can review incoming payments, outgoing payments, fees, dates, assets, and transaction details where available.
+- Create a service payment.
+- Define title, detail, category, amount, and asset.
+- Split payment into milestones.
+- Lock funds in escrow.
+- Release by milestone when work is delivered.
+- Open a dispute if delivery fails.
 
-## P2P
+## Remittances
 
-Paybrok can include peer-to-peer payment or market features where enabled. P2P availability can depend on release status, platform, region, and product configuration.
+- Choose route, amount, asset, and delivery method where available.
+- Match with approved bridge/provider options.
+- Lock funds in escrow.
+- Confirm delivery or dispute.
 
-## Rewards
+## Providers
 
-Paybrok can include rewards, cashback, activity score, or similar product views. These features are designed around real wallet and payment activity.
+- Provider review and approval flow.
+- Local methods by country.
+- Liquidity support.
+- Operational reputation concepts.
+- Provider tools where enabled.
 
-## Web
+## Disputes
 
-Paybrok has a web experience at https://paybrok.com.
+- Open dispute from an order.
+- Add reason, comments, and evidence.
+- Preserve order context.
+- Support review and resolution workflows.
 
-## Mobile
+## Notifications
 
-Paybrok is built in Flutter for Android, iOS, and web.
+- Order events.
+- Dispute events.
+- Wallet-related notices.
+- Web local device registration.
+- Mobile push where available.
 
-## Freighter
+## Security and Compliance
 
-Freighter exists and can be an optional web wallet integration for advanced users or selected web flows. Paybrok is not Freighter and should not be described as a Freighter-only product. Paybrok has its own native wallet experience.
+- Self-custody model.
+- Local web vault.
+- Brute-force protection concepts for local unlock flows.
+- Risk and sanctions controls.
+- AML/CTF policy.
+- Privacy and terms.
+- Provider review and dispute documentation.
+
