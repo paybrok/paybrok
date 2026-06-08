@@ -24,6 +24,18 @@ Un proveedor es una persona o negocio que entrega un servicio, pago local, liqui
 
 Si. Paybrok soporta pagos protegidos por hitos. Por ejemplo, un proyecto de arquitectura de 100 USDC puede dividirse en 30/40/30 USDC.
 
+## Un acuerdo de servicio puede tener fecha limite y periodo de revision?
+
+Si. Un pago protegido por servicio puede incluir fecha limite de entrega, periodo de revision o inspeccion, y reglas por hito antes de que ambas partes acepten.
+
+## Que pasa si el prestador marca el trabajo como listo y el cliente no responde?
+
+El acuerdo puede incluir una regla de autoliberacion. Si el cliente no aprueba ni disputa dentro del periodo acordado, Paybrok puede liberar segun las reglas aceptadas del acuerdo.
+
+## Puede haber penalidad por retraso?
+
+Si. Las penalidades por retraso pueden acordarse antes de aceptar. La penalidad no debe ser mayor que el hito donde aplica.
+
 ## Paybrok soporta QR locales?
 
 Paybrok puede escanear o procesar datos QR/link donde esten disponibles. Algunos QR solo exponen un link propietario; en esos casos Paybrok conserva el link o referencia y lo comparte con proveedores compatibles.

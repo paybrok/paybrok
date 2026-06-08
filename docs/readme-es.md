@@ -92,6 +92,16 @@ Un cliente contrata a un arquitecto por 100 USDC. En vez de pagar todo por adela
 
 Los fondos pueden quedar bloqueados en escrow y liberarse segun la entrega. Si el trabajo no se entrega, el cliente puede abrir una disputa con evidencia.
 
+Los acuerdos de servicio tambien pueden incluir reglas claras antes de que ambas partes acepten:
+
+- Fecha limite de entrega.
+- Periodo de revision o inspeccion despues de que el prestador marque el trabajo como listo.
+- Reglas de autoliberacion si el cliente no responde dentro del plazo acordado.
+- Opciones de penalidad por retraso acordadas antes de aceptar.
+- Porcentajes o montos por hito para liberaciones parciales.
+
+Estas reglas ayudan a que ambas partes sepan que ocurre antes de que el dinero se mueva, manteniendo el flujo simple.
+
 Puede ser util para:
 
 - Arquitectura.
@@ -182,7 +192,7 @@ El usuario debe guardar sus palabras de recuperacion. Si pierde el dispositivo/n
 
 ## Estado
 
-Paybrok esta en desarrollo activo y preparacion de beta. La disponibilidad de funciones puede variar por plataforma, pais, activo, liquidez de proveedores, revision de cumplimiento y configuracion operativa.
+Paybrok esta en desarrollo activo y operacion de produccion. La disponibilidad de funciones puede variar por plataforma, pais, activo, liquidez de proveedores, revision de cumplimiento y configuracion operativa.
 
 ## Contacto Publico
 

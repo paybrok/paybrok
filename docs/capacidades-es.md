@@ -97,6 +97,9 @@ Capacidades:
 - Definir titulo y detalle.
 - Definir monto total.
 - Dividir el pago por hitos.
+- Definir fecha limite de entrega y periodo de revision.
+- Usar reglas de autoliberacion si el cliente no responde dentro del plazo aceptado.
+- Usar penalidades acordadas por retraso cuando aplique.
 - Bloquear fondos en escrow.
 - Liberar fondos segun entregas.
 - Abrir disputa con evidencia si algo sale mal.

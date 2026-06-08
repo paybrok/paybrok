@@ -24,6 +24,18 @@ A provider is a person or business that delivers a service, local payment, liqui
 
 Yes. Paybrok supports protected service payments by milestones. For example, a 100 USDC architecture project can be split into 30/40/30 USDC releases.
 
+## Can a service agreement have deadlines and review periods?
+
+Yes. A protected service payment can include a delivery deadline, a review or inspection period, and milestone rules before both sides accept.
+
+## What happens if the provider marks work as ready and the client does not respond?
+
+The agreement can include an automatic release rule. If the client does not approve or dispute within the agreed review window, Paybrok can release according to the accepted agreement rules.
+
+## Can a contract include a late delivery penalty?
+
+Yes. Late delivery penalties can be agreed before acceptance. The penalty should not be greater than the milestone where it applies.
+
 ## Does Paybrok support local QR payments?
 
 Paybrok can scan or process local QR/payment-link data where available. Some QR systems only expose a proprietary link; in those cases Paybrok preserves the link/reference and shares it with compatible providers.

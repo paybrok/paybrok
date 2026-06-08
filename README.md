@@ -96,6 +96,16 @@ A client hires an architect for a 100 USDC job. Instead of paying everything upf
 
 Funds can be locked in escrow and released as work is delivered. If the work is not delivered, the client can open a dispute with evidence.
 
+Service agreements can also include clear operating rules before both sides accept them:
+
+- Delivery deadline.
+- Review or inspection period after the provider marks work as ready.
+- Automatic release rules when the client does not respond within the agreed window.
+- Late delivery penalty options agreed before acceptance.
+- Milestone percentages or amounts for partial releases.
+
+These rules help both sides know what happens before money moves, while keeping the payment flow simple.
+
 This can be useful for:
 
 - Architecture.
@@ -186,7 +196,7 @@ Users must keep their recovery words safe. If a user loses the device/browser st
 
 ## Status
 
-Paybrok is in active development and beta preparation. Feature availability can vary by platform, country, asset, provider liquidity, compliance review, and operational configuration.
+Paybrok is in active development and production operation. Feature availability can vary by platform, country, asset, provider liquidity, compliance review, and operational configuration.
 
 ## Public Contact
 

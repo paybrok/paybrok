@@ -50,5 +50,5 @@ El resultado no es solo una wallet ni solo un marketplace. Es una experiencia de
 
 ## Disponibilidad
 
-Paybrok esta en desarrollo activo y preparacion de beta. La disponibilidad puede variar por plataforma, pais, activo, ruta, liquidez de proveedores, cumplimiento y configuracion operativa.
+Paybrok esta en desarrollo activo y operacion de produccion. La disponibilidad puede variar por plataforma, pais, activo, ruta, liquidez de proveedores, cumplimiento y configuracion operativa.
 

@@ -97,6 +97,9 @@ Capabilities:
 - Define service title and details.
 - Set total amount.
 - Split the amount into milestones.
+- Define delivery deadline and review period.
+- Use automatic release rules when the client does not respond within the accepted window.
+- Use agreed late delivery penalties where applicable.
 - Use escrow to avoid paying everything upfront.
 - Release funds as work is delivered.
 - Open a dispute with evidence if something goes wrong.

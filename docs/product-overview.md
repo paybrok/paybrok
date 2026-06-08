@@ -50,5 +50,5 @@ The result is not just a wallet, and not just a marketplace. It is a payment exp
 
 ## Availability
 
-Paybrok is in active development and beta preparation. Feature availability can vary by platform, country, asset, route, provider liquidity, compliance review, and operational configuration.
+Paybrok is in active development and production operation. Feature availability can vary by platform, country, asset, route, provider liquidity, compliance review, and operational configuration.
 
