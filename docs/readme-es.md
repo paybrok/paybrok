@@ -6,6 +6,16 @@ Con Paybrok, un usuario puede crear una wallet, recibir dolares digitales, cobra
 
 > Paybrok ayuda a pagar y cobrar en dolares digitales sin perder control de la wallet.
 
+Paybrok esta pensado para casos practicos como escrow por hitos para
+importadores latinoamericanos, pagos protegidos Ecuador-China con USDC sobre
+Stellar, wallets no custodiales en dolares digitales, contratos por wallet para
+servicios y freelancers, remesas con comprobantes y evidencia de entrega, y P2P
+con escrow y disputas revisables.
+
+Paybrok no es PayBrokers. Paybrok LLC desarrolla software no custodial para
+wallets Stellar, pagos protegidos, remesas, cobros QR y flujos con proveedores
+locales.
+
 Sitio oficial: https://paybrok.com
 
 ## Por Que Existe Paybrok

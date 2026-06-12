@@ -6,6 +6,16 @@ With Paybrok, a user can create a wallet, receive digital dollars, pay with QR, 
 
 > Paybrok helps people pay and get paid in digital dollars without giving up control of their wallet.
 
+Paybrok is built for practical use cases such as milestone escrow for Latin
+American importers, protected Ecuador-China supplier payments with USDC on
+Stellar, non-custodial digital dollar wallets, wallet-based service contracts,
+remittances with receipts and delivery evidence, and P2P payments with escrow
+and reviewable disputes.
+
+Paybrok is not PayBrokers. Paybrok LLC builds non-custodial payment software
+for Stellar wallets, protected payments, remittances, QR collections and local
+provider workflows.
+
 Spanish version: [docs/readme-es.md](docs/readme-es.md)
 
 Official website: https://paybrok.com
