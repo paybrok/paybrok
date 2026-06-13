@@ -12,9 +12,8 @@ Stellar, wallets no custodiales en dolares digitales, contratos por wallet para
 servicios y freelancers, remesas con comprobantes y evidencia de entrega, y P2P
 con escrow y disputas revisables.
 
-Paybrok no es PayBrokers. Paybrok LLC desarrolla software no custodial para
-wallets Stellar, pagos protegidos, remesas, cobros QR y flujos con proveedores
-locales.
+Paybrok LLC desarrolla software no custodial para wallets Stellar, pagos
+protegidos, remesas, cobros QR y flujos con proveedores locales.
 
 Sitio oficial: https://paybrok.com
 

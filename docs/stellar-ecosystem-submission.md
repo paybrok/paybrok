@@ -54,6 +54,5 @@ Paybrok operates in production, but does not present itself as a bank, custodial
 exchange, or public Stellar anchor. Availability depends on country, asset,
 provider liquidity, compliance review, and operational configuration.
 
-Paybrok is not PayBrokers. Paybrok LLC builds non-custodial payment software
-for Stellar wallets, protected payments, remittances, QR collections, and local
-provider workflows.
+Paybrok LLC builds non-custodial payment software for Stellar wallets,
+protected payments, remittances, QR collections, and local provider workflows.

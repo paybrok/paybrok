@@ -12,9 +12,8 @@ Stellar, non-custodial digital dollar wallets, wallet-based service contracts,
 remittances with receipts and delivery evidence, and P2P payments with escrow
 and reviewable disputes.
 
-Paybrok is not PayBrokers. Paybrok LLC builds non-custodial payment software
-for Stellar wallets, protected payments, remittances, QR collections and local
-provider workflows.
+Paybrok LLC builds non-custodial payment software for Stellar wallets,
+protected payments, remittances, QR collections and local provider workflows.
 
 Spanish version: [docs/readme-es.md](docs/readme-es.md)
 
