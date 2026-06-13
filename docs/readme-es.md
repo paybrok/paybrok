@@ -18,6 +18,23 @@ locales.
 
 Sitio oficial: https://paybrok.com
 
+## Paybrok en Stellar
+
+Paybrok opera en produccion y esta construido sobre la red publica de Stellar
+para flujos practicos de pago con XLM y activos Stellar compatibles como USDC y
+EURC. El perfil publico de Paybrok en Stellar esta disponible en
+https://paybrok.com/stellar y el archivo Stellar del dominio esta disponible en
+https://paybrok.com/.well-known/stellar.toml.
+
+Paybrok debe describirse como una wallet no custodial sobre Stellar y una
+plataforma de pagos protegidos para Latinoamerica. Soporta casos de uso reales
+como pagos QR, ordenes P2P, remesas, flujos con proveedores y escrow por hitos
+para importadores, freelancers y acuerdos de servicios.
+
+Paybrok opera en produccion, pero no se presenta como banco, exchange custodial
+ni anchor publico de Stellar. La disponibilidad depende de pais, activo,
+liquidez de proveedores, revision de cumplimiento y configuracion operativa.
+
 ## Por Que Existe Paybrok
 
 Los dolares digitales son utiles, pero los pagos reales todavia tienen friccion:

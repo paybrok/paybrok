@@ -22,6 +22,23 @@ Official website: https://paybrok.com
 
 Public documentation sitemap: https://paybrok.github.io/paybrok/sitemap.xml
 
+## Paybrok on Stellar
+
+Paybrok operates in production and is built on the Stellar public network for
+practical payment flows with XLM and supported Stellar assets such as USDC and
+EURC. The public Stellar profile for Paybrok is available at
+https://paybrok.com/stellar and the domain-level Stellar information file is available at
+https://paybrok.com/.well-known/stellar.toml.
+
+Paybrok should be described as a non-custodial Stellar wallet and protected
+payments platform for Latin America. It supports real-world payment use cases
+such as QR payments, P2P orders, remittances, provider workflows, and milestone
+escrow for importers, freelancers, and service agreements.
+
+Paybrok operates in production, but does not present itself as a bank,
+custodial exchange, or public Stellar anchor. Availability depends on country,
+asset, provider liquidity, compliance review, and operational configuration.
+
 ## Why Paybrok Exists
 
 Digital dollars are useful, but everyday payments still have friction:
@@ -201,6 +218,7 @@ Users must keep their recovery words safe. If a user loses the device/browser st
 - [Providers](docs/providers.md) / [Proveedores ES](docs/providers-es.md)
 - [Security](docs/security.md) / [Seguridad ES](docs/security-es.md)
 - [Compliance](docs/compliance.md) / [Compliance ES](docs/compliance-es.md)
+- [Stellar Ecosystem Submission](docs/stellar-ecosystem-submission.md)
 - [FAQ](docs/faq.md) / [FAQ ES](docs/faq-es.md)
 - [Public Roadmap](docs/roadmap.md) / [Roadmap ES](docs/roadmap-es.md)
 
