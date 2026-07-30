@@ -20,14 +20,15 @@ Ejemplo de hitos:
 
 ## Flujo
 
-1. El cliente entra a Pagar un servicio.
-2. Elige categoria como Arquitectura.
-3. Define monto, activo, titulo, detalles, hitos y reglas del acuerdo.
-4. Un prestador acepta o se conecta segun disponibilidad.
-5. Los fondos se bloquean en escrow.
-6. El prestador entrega cada hito y marca el servicio como listo.
-7. El cliente revisa la entrega y libera el pago correspondiente si esta conforme.
-8. Si el trabajo no se entrega, el cliente abre disputa con evidencia.
+1. Cualquiera abre Pago protegido y elige Quiero cobrar si entregara o Quiero pagar si financiara.
+2. Define contraparte, entregable, evidencia, minimo 50 USDC, entre uno y seis hitos, fechas, revision y penalidad opcional.
+3. Crea el enlace y usa Compartir o Copiar enlace.
+4. La contraparte revisa y acepta.
+5. Quien paga firma Proteger fondos. Crear o aceptar el enlace no bloquea dinero.
+6. Ambas partes comprueban Fondos protegidos en Mis acuerdos.
+7. El prestador entrega cada hito y adjunta evidencia.
+8. El cliente revisa y libera en orden. Una liberacion confirmada es final.
+9. Ante incumplimiento, cualquiera abre disputa antes de liberar.
 
 ## Reglas Del Acuerdo
 
@@ -39,7 +40,7 @@ Los acuerdos de servicio pueden incluir reglas predefinidas visibles antes de ac
 - Opciones de penalidad por retraso.
 - Montos o porcentajes por hito.
 
-Las penalidades se acuerdan antes de aceptar y no deben superar el valor del hito donde aplican. Asi el acuerdo queda claro y se evita que una penalidad sea mayor que el pago revisado.
+La penalidad puede expresarse en porcentaje o monto fijo. Es una clausula, no un descuento unilateral automatico: se aplica por acuerdo o resolucion de disputa.
 
 ## Hitos
 

@@ -4,13 +4,15 @@ Los flujos de remesa de Paybrok estan pensados para usuarios que quieren enviar 
 
 ## Flujo
 
-1. El usuario elige origen, destino, monto, activo y metodo de entrega.
-2. Paybrok muestra proveedores o puentes disponibles donde existan.
-3. El usuario selecciona un proveedor.
-4. Los fondos se bloquean en escrow.
-5. El proveedor entrega localmente.
-6. Los fondos se liberan despues de confirmar entrega.
-7. Si la entrega falla, se puede abrir disputa.
+1. El remitente indica origen, destino, monto, activo y wallet del beneficiario.
+2. La solicitud aun no retiene fondos.
+3. El beneficiario elige transferencia bancaria o efectivo y un Punto disponible.
+4. El Punto cotiza; las partes revisan tasa, monto local, costos y vigencia.
+5. El remitente firma Proteger fondos.
+6. El Punto transfiere o entrega efectivo y adjunta comprobante.
+7. El beneficiario confirma solo despues de recibir el total.
+8. El Punto cobra cuando el contrato lo permite; versiones anteriores pueden requerir liberacion del remitente.
+9. Si falla la entrega, se reporta desde Mis remesas con evidencia y se resuelve mediante acuerdo, reembolso o disputa.
 
 ## Ejemplos
 
@@ -22,4 +24,5 @@ Los flujos de remesa de Paybrok estan pensados para usuarios que quieren enviar 
 
 - La disponibilidad depende de pais, ruta, liquidez, metodo, compliance y limites.
 - Paybrok no garantiza que una ruta este siempre disponible.
+- Antes de proteger no hay nada que reembolsar. La recuperacion tecnica solo busca bloqueos antiguos no registrados.
 

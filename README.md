@@ -1,6 +1,6 @@
 # Paybrok
 
-Paybrok is a non-custodial wallet and protected payment platform for people, merchants, freelancers, service providers, and local payment operators who need to use digital dollars in real life.
+Paybrok is a wallet with local signing and a protected payment platform for people, merchants, freelancers, service providers, and local payment operators who need to use digital dollars in real life. Users control their wallet keys; protected funds are locked in Soroban contracts and disputes may be resolved by Paybrok's designated administrator wallet under the published rules.
 
 With Paybrok, a user can create a wallet, receive digital dollars, pay with QR, send funds, use local payment providers, protect a service payment with escrow, send money across routes where providers are available, and document disputes when something goes wrong.
 
@@ -204,6 +204,7 @@ Users must keep their recovery words safe. If a user loses the device/browser st
 
 ## Documentation
 
+- [Guía operativa paso a paso ES](docs/guia-operativa-es.md)
 - [Product Overview](docs/product-overview.md)
 - [Product Overview ES](docs/product-overview-es.md)
 - [Market Positioning](docs/market-positioning.md) / [Posicionamiento ES](docs/market-positioning-es.md)
@@ -214,6 +215,7 @@ Users must keep their recovery words safe. If a user loses the device/browser st
 - [Protected Service Payments](docs/service-contracts.md) / [Servicios ES](docs/service-contracts-es.md)
 - [Local QR Payments](docs/local-qr-payments.md) / [QR Local ES](docs/local-qr-payments-es.md)
 - [Remittances](docs/remittances.md) / [Remesas ES](docs/remittances-es.md)
+- [Retiro de efectivo ES](docs/withdrawals-es.md)
 - [Providers](docs/providers.md) / [Proveedores ES](docs/providers-es.md)
 - [Security](docs/security.md) / [Seguridad ES](docs/security-es.md)
 - [Compliance](docs/compliance.md) / [Compliance ES](docs/compliance-es.md)

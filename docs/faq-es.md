@@ -16,6 +16,31 @@ No. Si el usuario pierde sus palabras y tambien se pierde el almacenamiento loca
 
 Escrow significa que los fondos quedan bloqueados mientras una orden o servicio se completa. Se liberan cuando se cumplen condiciones o se revisan en disputa.
 
+## Como creo un contrato o Pago protegido?
+
+Abre Pago protegido, elige Quiero cobrar si entregaras o Quiero pagar si
+financiaras, describe el entregable y la evidencia, y define minimo 50 USDC,
+entre uno y seis hitos, fechas, revision y penalidad opcional. Crea el enlace,
+compartelo y espera la aceptacion. Quien paga debe firmar Proteger fondos; el
+link por si solo no retiene dinero. El proveedor entrega con evidencia y el
+cliente libera en orden o abre disputa antes de liberar.
+
+## Como envio una remesa?
+
+El remitente crea la solicitud. El beneficiario elige transferencia bancaria o
+efectivo y un Punto disponible. El Punto cotiza; el remitente revisa tasa,
+monto local, costos y vigencia y protege los fondos. El Punto entrega y adjunta
+comprobante. El beneficiario confirma solo despues de recibir el total y luego
+se cobra o libera el pago protegido segun el contrato.
+
+## Como retiro efectivo?
+
+En Retiro escanea el QR o pega la wallet aprobada del Punto, indica activo y
+monto y revisa efectivo neto y comision. La solicitud no retiene dinero. El
+Punto acepta, el usuario protege, el Punto entrega efectivo y el usuario
+confirma despues de contar el total. Retiro es efectivo; una transferencia
+bancaria al beneficiario se realiza mediante Remesas cuando esta disponible.
+
 ## Quien es proveedor?
 
 Un proveedor es una persona o negocio que entrega un servicio, pago local, liquidez o puente de remesa. En un ejemplo de arquitectura, el arquitecto es el proveedor o prestador del servicio.
