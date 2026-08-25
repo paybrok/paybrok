@@ -240,6 +240,7 @@ Paybrok is in active development and production operation. Feature availability 
 ## Public Contact
 
 - Website: https://paybrok.com
+- Reddit: https://www.reddit.com/user/Signal_You6871/
 - Support: support@paybrok.com
 - Legal: legal@paybrok.com
 - Privacy: privacy@paybrok.com

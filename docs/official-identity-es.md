@@ -28,6 +28,7 @@ La cuenta institucional declara `paybrok.com` en la red y `paybrok.com` publica 
 
 - Sitio: https://paybrok.com
 - Cuentas oficiales: https://paybrok.com/official-accounts
+- Reddit: https://www.reddit.com/user/Signal_You6871/
 - Seguridad: https://paybrok.com/security
 - Perfil Stellar: https://paybrok.com/stellar
 - Soporte: support@paybrok.com

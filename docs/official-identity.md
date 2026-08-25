@@ -28,6 +28,7 @@ The institutional account declares `paybrok.com` on-chain, and `paybrok.com` pub
 
 - Website: https://paybrok.com
 - Official accounts: https://paybrok.com/official-accounts
+- Reddit: https://www.reddit.com/user/Signal_You6871/
 - Security: https://paybrok.com/security
 - Stellar profile: https://paybrok.com/stellar
 - Support: support@paybrok.com
