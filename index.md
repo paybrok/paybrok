@@ -12,6 +12,8 @@ Paybrok brings together wallet, QR payments, payment links, P2P local liquidity,
 - [Funciones en español](docs/features-es.md)
 - [Security](docs/security.md)
 - [Seguridad](docs/security-es.md)
+- [Official Identity and Verification](docs/official-identity.md)
+- [Identidad Oficial y Verificacion](docs/official-identity-es.md)
 - [P2P and Escrow](docs/p2p-escrow.md)
 - [P2P y Escrow](docs/p2p-escrow-es.md)
 - [Protected Service Payments](docs/service-contracts.md)

@@ -34,6 +34,16 @@ Paybrok opera en produccion, pero no se presenta como banco, exchange custodial
 ni anchor publico de Stellar. La disponibilidad depende de pais, activo,
 liquidez de proveedores, revision de cumplimiento y configuracion operativa.
 
+## Identidad Publica y Verificacion Stellar
+
+Paybrok es desarrollado por Paybrok LLC y un equipo de producto, ingenieria, operaciones, seguridad y soporte liderado por el fundador Mario Montaño. Contacto publico del fundador: mm@paybrok.com.
+
+La cuenta institucional oficial de Stellar es:
+
+`GA2FD3TA4XUJG5SMFOQDZXQAPNCLAA62W5PMKFE7A3WD6TRAKP7PBAXF`
+
+La cuenta declara `paybrok.com` como su dominio oficial en la red publica Stellar. El archivo publico correspondiente esta disponible en [paybrok.com/.well-known/stellar.toml](https://paybrok.com/.well-known/stellar.toml). Consulta [Identidad Oficial y Verificacion](official-identity-es.md) para ver todas las referencias.
+
 ## Por Que Existe Paybrok
 
 Los dolares digitales son utiles, pero los pagos reales todavia tienen friccion:

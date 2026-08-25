@@ -8,10 +8,22 @@ This public repository is intended to provide general product identity and publi
 
 - Product name: Paybrok
 - Company: Paybrok LLC
+- Founder: Mario Montaño
+- Team: product, engineering, operations, security, and support contributors led by the founder
+- Founder contact: mm@paybrok.com
 - Jurisdiction: Wyoming, United States
 - Product category: non-custodial wallet and payment app
 - Technology focus: Stellar-based digital payments
 - Platforms: Android, iOS, and web
+
+## Verifiable Stellar Identity
+
+- Official domain: `paybrok.com`
+- Institutional account: `GA2FD3TA4XUJG5SMFOQDZXQAPNCLAA62W5PMKFE7A3WD6TRAKP7PBAXF`
+- Stellar identity file: https://paybrok.com/.well-known/stellar.toml
+- Public account record: https://stellar.expert/explorer/public/account/GA2FD3TA4XUJG5SMFOQDZXQAPNCLAA62W5PMKFE7A3WD6TRAKP7PBAXF
+
+The institutional account declares `paybrok.com` as its Stellar home domain. The domain publishes the matching account information in its `stellar.toml` file.
 
 ## Public Presence
 
