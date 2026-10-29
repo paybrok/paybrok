@@ -4,13 +4,15 @@ Paybrok remittance flows are designed for users who want to send value across co
 
 ## Flow
 
-1. The user chooses origin, destination, amount, asset, and delivery method.
-2. Paybrok shows available bridge/provider options where available.
-3. The user selects a provider.
-4. Funds are locked in escrow.
-5. The provider delivers locally.
-6. Funds are released after delivery confirmation.
-7. If delivery fails, a dispute can be opened.
+1. The sender enters origin, destination, amount, asset and beneficiary wallet.
+2. Creating the request leaves funds available in the sender's wallet.
+3. The beneficiary chooses an available Paybrok Point and an offered delivery method, such as bank transfer or cash.
+4. The Point quotes; the parties review the exchange rate, local amount, fees and expiry.
+5. The sender signs Protect funds.
+6. The Point transfers or delivers the local amount and attaches proof.
+7. The beneficiary confirms after receiving the full amount.
+8. The Point collects when the contract enables that action; earlier versions may require the sender to release.
+9. A delivery issue is reported from My remittances with evidence and resolved through agreement, refund or dispute.
 
 ## Examples
 

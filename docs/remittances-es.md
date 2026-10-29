@@ -18,7 +18,7 @@ Los flujos de remesa de Paybrok estan pensados para usuarios que quieren enviar 
 
 - Enviar dolares digitales a alguien que necesita moneda local.
 - Pagar a un destinatario por banco, wallet local o metodo local.
-- Usar proveedores aprobados en vez de enviar a ciegas.
+- Coordinar la entrega con proveedores aprobados y seguimiento dentro de la operación.
 
 ## Disponibilidad Y Condiciones De Operación
 
