@@ -75,7 +75,7 @@ Escrow can support:
 - Milestone-based releases where enabled.
 - Soroban escrow where configured.
 
-Escrow does not eliminate all risk. Users should document agreements, keep evidence, and use milestones for service payments.
+Document the agreement, keep delivery evidence and use milestones for service payments. Escrow governs the release of funds; the parties remain responsible for verifying the actual delivery and opening disputes within the applicable window.
 
 ## Dispute Safety
 
@@ -105,11 +105,12 @@ These may include:
 - Suspension or restriction of suspicious activity.
 - Manual review where appropriate.
 
-These controls help protect users and the platform, but they do not guarantee that every counterparty is safe or that every order will complete successfully.
+These controls support provider review and transaction follow-up. Check the counterparty, payment receipt and delivery evidence for each order; provider review is a platform process, not an insurance policy or a guarantee of performance.
 
-## Public Limitations
+## Keep Access and Review Each Payment
 
-- Paybrok cannot recover a wallet if the user loses recovery words and local storage is gone.
-- Paybrok cannot guarantee local liquidity, rates, or provider availability.
-- Paybrok cannot eliminate all fraud risk.
-- Paybrok cannot replace careful documentation for high-value agreements.
+- Keep an offline copy of your recovery words. Recovery requires those words or a working local key; Paybrok has no copy to restore access if both are lost.
+- Confirm the available provider, quote, limits and delivery method before accepting.
+- Verify payment in the receiving account and confirm delivery before release. Escrow and dispute review follow the accepted rules; outcomes depend on the facts and evidence.
+- For high-value agreements, retain written specifications, delivery records and any additional contracts.
+- Read the [terms](https://paybrok.com/terms) for digital-asset risks and responsibilities.

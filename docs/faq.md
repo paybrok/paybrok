@@ -1,12 +1,12 @@
 # FAQ
 
-## Is Paybrok a bank?
+## What can I do with Paybrok?
 
-No. Paybrok is not a bank.
+Use a non-custodial Stellar wallet to send and receive digital dollars, collect with QR or links, and organize protected payments for purchases and services.
 
 ## Does Paybrok custody my funds?
 
-Paybrok is designed as a non-custodial wallet. Users control their wallet credentials. Escrow flows may lock funds for a specific order, but the base wallet model is self-custody.
+You control your wallet keys and sign transactions locally. In Protected payment, funds are locked in a Soroban contract. During a dispute, Paybrok’s designated administrator wallet can execute the published resolution under the agreement rules.
 
 ## Can Paybrok recover my wallet if I lose my recovery words?
 
@@ -44,11 +44,11 @@ Paybrok can scan or process local QR/payment-link data where available. Some QR 
 
 Paybrok web wallet logic applies to web browsers. However, browser storage can vary between Safari, Chrome, private mode, and other browser containers. Users should keep recovery words safe.
 
-## Is Freighter required?
+## Web wallet
 
-No. Freighter is an advanced option for web users who already use it. Paybrok also supports a web wallet flow with local encrypted vault.
+The Paybrok web wallet lets users create or restore an account and sign locally with an encrypted vault.
 
-## Are all features available everywhere?
+## How do I check availability?
 
-No. Availability depends on country, platform, provider liquidity, compliance, asset support, and operational configuration.
+Check the options enabled in Paybrok for your country, platform and asset. Local services require an available provider, liquidity and the applicable compliance checks. Review the quote and limits before confirming.
 

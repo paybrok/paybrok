@@ -46,7 +46,7 @@ From there, Paybrok expands into protected flows:
 
 Many wallets only store and send assets. Many local payment solutions require full trust in a counterparty. Paybrok combines wallet control with practical workflows for local payments, services, and P2P coordination.
 
-The result is not just a wallet, and not just a marketplace. It is a payment experience where self-custody, QR, local providers, escrow, and disputes are part of the same product.
+Self-custody, QR, local providers, escrow and dispute review work together in one payment experience.
 
 ## Availability
 

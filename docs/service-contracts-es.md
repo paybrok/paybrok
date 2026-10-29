@@ -62,5 +62,5 @@ Una orden debe definir:
 
 ## Limite
 
-Paybrok no reemplaza un contrato legal formal para proyectos complejos. Para trabajos de alto valor, los usuarios deben tener tambien un acuerdo escrito fuera de la app.
+Para proyectos complejos o de alto valor, complementa el acuerdo de Paybrok con los contratos escritos, especificaciones y asesoría adecuados. Conserva esos documentos junto con la evidencia de entrega.
 

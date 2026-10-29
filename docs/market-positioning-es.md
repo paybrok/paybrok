@@ -1,56 +1,36 @@
-# Posicionamiento
+# Posicionamiento de Paybrok
 
-Paybrok se posiciona como una plataforma practica de pagos no custodial, no solo como una wallet.
+Paybrok es una wallet no custodial sobre Stellar y una plataforma de pagos protegidos para pagar y cobrar en dólares digitales.
 
-## El Espacio Que Cubre
+## Mensaje central
 
-Muchas wallets cripto son potentes pero dificiles para usuarios comunes. Muchas apps simples de dinero son faciles pero custodiales. Muchos flujos P2P dependen demasiado de confianza, chat y comprobantes manuales.
+**Tus dólares digitales, listos para pagar y cobrar. Acuerda cada entrega y organiza tus pagos con protección.**
 
-Paybrok esta disenado para el espacio entre esos mundos:
+Tú controlas las llaves de tu wallet y firmas desde tu dispositivo. En Pago protegido, los fondos se bloquean en un contrato Soroban y se liberan según el acuerdo. Durante una disputa, la wallet administradora designada por Paybrok puede ejecutar la resolución conforme a las reglas publicadas.
 
-- Experiencia simple de pago.
-- Wallet controlada por el usuario.
-- Proveedores locales.
-- Proteccion por escrow.
-- Disputas con evidencia.
-- QR y enlaces de pago.
-- Pagos por hitos.
+## Qué puedes hacer
 
-## Quien Se Beneficia
+- Enviar y recibir activos compatibles sobre Stellar.
+- Cobrar con QR o enlaces y consultar comprobantes.
+- Comprar USDC mediante las ofertas P2P disponibles en Web y Android.
+- Acordar compras y servicios con entregables, revisión y pagos por etapas.
+- Coordinar remesas y entregas locales con Puntos disponibles.
+- Revisar el historial del acuerdo y aportar evidencia cuando una entrega requiera revisión.
 
-- Usuarios que quieren dolares digitales pero necesitan pagos locales practicos.
-- Comercios que quieren cobrar con QR o link.
-- Freelancers y prestadores que quieren mas seguridad al cobrar.
-- Clientes que quieren proteccion antes de liberar fondos.
-- Proveedores locales que quieren ordenes mas estructuradas.
-- Comunidades que necesitan coordinacion P2P mas segura.
+## Para quién
 
-## Ventaja Competitiva
+- Personas que usan dólares digitales para pagar y recibir.
+- Comercios que cobran con QR o enlaces.
+- Freelancers y profesionales que acuerdan entregas y cobros.
+- Importadores y compradores que organizan pagos por etapas.
+- Proveedores que atienden operaciones locales según su capacidad y liquidez.
 
-La ventaja de Paybrok es combinar funciones que normalmente viven en productos separados:
+## Cómo comunicarlo
 
-- Wallet.
-- Cobro QR.
-- Enlaces de pago.
-- P2P.
-- Escrow.
-- Remesas.
-- Contratos de servicio.
-- Disputas.
-- Proveedores.
-- Notificaciones.
-- Controles de riesgo y compliance.
+Empieza por el uso y explica el mecanismo: quién firma, cuándo se protegen los fondos y cómo se libera cada pago. Presenta las comisiones, disponibilidad y reglas junto al paso donde se aplican. Para conservar acceso, explica cómo respaldar y recuperar la wallet. Para resolver una diferencia, indica cuándo abrir una disputa y qué evidencia adjuntar.
 
-Esto hace que Paybrok sea mas que una pantalla de balance. Un usuario puede tener dolares digitales, pedir un pago, pagar un QR local, crear un pago protegido por servicio, usar un proveedor, abrir una disputa y seguir el ciclo de la orden sin saltar entre herramientas desconectadas.
+La autocustodia describe la wallet; Pago protegido tiene reglas de contrato y resolución de disputas. La disponibilidad se consulta por país, plataforma, activo y proveedor. Las referencias a integraciones o autorizaciones deben corresponder a documentación vigente y a funciones habilitadas.
 
-## Diferenciadores Fuertes
+## Información para decidir
 
-- Paybrok convierte la autocustodia en experiencia de pago, no solo en almacenamiento de wallet.
-- Paybrok agrega escrow y disputas a P2P y servicios, reduciendo confianza ciega.
-- Paybrok soporta pagos por hitos, utiles para freelancers, profesionales y clientes.
-- Paybrok conecta datos de QR/link locales con flujos de proveedores cuando es posible.
-- Paybrok usa revision de proveedores y controles de riesgo para operar pagos locales con mas estructura.
-- Paybrok combina boveda local cifrada, protecciones de desbloqueo local y proteccion contra intentos repetidos en flujos sensibles de wallet.
-- Paybrok incluye controles de sanciones/riesgo y documentacion de disputas como parte de su capa de seguridad operativa.
-- Paybrok mantiene Freighter como opcion avanzada, pero conserva sus propios flujos de wallet y pago.
-- Paybrok esta pensado para casos reales: comercios, proveedores locales, remesas, trabajo por servicios y movimiento diario de dolares digitales.
+Consulta los [términos](https://paybrok.com/terms), la [guía de seguridad](security-es.md) y el [proceso de disputas](https://paybrok.com/disputes). El pago directo confirmado es final; para vincular un pago a una entrega, utiliza Pago protegido desde el inicio.

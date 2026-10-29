@@ -16,10 +16,10 @@ Paybrok remittance flows are designed for users who want to send value across co
 
 - Sending digital dollars to someone who needs local currency.
 - Paying a recipient through a local bank, wallet, or payment method.
-- Using approved bridge providers instead of sending blindly.
+- Coordinating delivery with approved providers and a recorded payment process.
 
-## Limitations
+## Availability and Operating Conditions
 
 - Availability depends on country, route, provider liquidity, payment method, compliance review, and operational limits.
-- Paybrok does not guarantee a route will always be available.
+- Confirm the active provider, delivery method and quote for your route in the app before protecting funds.
 

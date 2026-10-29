@@ -22,7 +22,7 @@ En web, Paybrok soporta:
 - Wallet web Paybrok con boveda local cifrada.
 - Contrasena local para desbloquear acciones sensibles.
 - Recuperacion con palabras si el almacenamiento local se pierde.
-- Freighter como opcion avanzada de firma externa.
+- Firmar localmente con la wallet Paybrok.
 
 ## Recuperacion
 

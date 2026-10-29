@@ -1,8 +1,8 @@
 # Paybrok
 
-Paybrok es una wallet no custodial y una plataforma de pagos protegidos para personas, comercios, freelancers, prestadores de servicios y proveedores locales que necesitan usar dolares digitales en la vida real.
+Paybrok es una wallet no custodial sobre Stellar y una plataforma de pagos protegidos. Paga y cobra en dólares digitales, recibe con QR o enlaces y organiza compras y servicios por etapas. Tú controlas las llaves y firmas desde tu dispositivo. En Pago protegido, los fondos se bloquean en un contrato Soroban; la wallet administradora designada por Paybrok puede ejecutar una resolución de disputa conforme a las reglas publicadas.
 
-Con Paybrok, un usuario puede crear una wallet, recibir dolares digitales, cobrar con QR, enviar fondos, usar proveedores locales, proteger un pago por servicio con escrow, enviar valor por rutas disponibles y documentar disputas si algo sale mal.
+Con Paybrok, un usuario puede crear una wallet, recibir dolares digitales, cobrar con QR, enviar fondos, usar proveedores locales, proteger un pago por servicio con escrow, enviar valor por rutas disponibles y mantener un registro claro de acuerdos, entregas y pagos.
 
 > Paybrok ayuda a pagar y cobrar en dolares digitales sin perder control de la wallet.
 
@@ -30,9 +30,9 @@ plataforma de pagos protegidos para Latinoamerica. Soporta casos de uso reales
 como pagos QR, ordenes P2P, remesas, flujos con proveedores y escrow por hitos
 para importadores, freelancers y acuerdos de servicios.
 
-Paybrok opera en produccion, pero no se presenta como banco, exchange custodial
-ni anchor publico de Stellar. La disponibilidad depende de pais, activo,
-liquidez de proveedores, revision de cumplimiento y configuracion operativa.
+Paybrok lleva los pagos Stellar al uso cotidiano. Consulta los activos, rutas,
+proveedores y condiciones habilitados para tu país y plataforma antes de
+confirmar una operación.
 
 ## Identidad Publica y Verificacion Stellar
 
@@ -59,7 +59,7 @@ Paybrok une estos flujos en un solo producto: wallet, QR, P2P, escrow, pagos por
 
 ## Por Que Paybrok Es Diferente
 
-Paybrok no es solo otra wallet, y no es solo un tablero P2P. Su fuerza esta en conectar el recorrido completo del pago en un solo producto.
+Paybrok conecta el control de tu wallet, los cobros, los proveedores locales y los acuerdos protegidos en un solo producto.
 
 Muchas herramientas resuelven una sola parte: guardar fondos, enviar cripto, cobrar con QR, encontrar comprador local, coordinar una remesa o manejar un pago por servicio. Paybrok une esas capas:
 
@@ -91,7 +91,7 @@ Esa combinacion es la ventaja de Paybrok: el usuario puede pasar de tener dolare
 - Copiar, compartir o escanear informacion de pago.
 - Revisar historial de movimientos.
 - Usar wallet web con boveda local cifrada.
-- Usar Freighter como opcion web avanzada donde este disponible.
+- Firmar localmente con la wallet Paybrok.
 
 ### QR y Enlaces de Pago
 
@@ -199,14 +199,14 @@ Paybrok esta disenado alrededor de autocustodia.
 
 El usuario debe guardar sus palabras de recuperacion. Si pierde el dispositivo/navegador y no tiene sus palabras, Paybrok no puede recuperar la wallet.
 
-## Que No Es Paybrok
+## Prepara Tu Operación
 
-- Paybrok no es un banco.
-- Paybrok no es un exchange centralizado.
-- Paybrok no garantiza liquidez local ni tasas de cambio.
-- Paybrok no garantiza que todos los proveedores, paises, activos o rutas esten siempre disponibles.
-- Paybrok no reemplaza un contrato legal formal para servicios de alto valor.
-- Paybrok no elimina todo riesgo de fraude; ofrece estructura, escrow, evidencia y revision.
+- Elige el activo, la ruta y el proveedor disponibles para tu país y plataforma.
+- Revisa cotización, comisiones, límites y condiciones de entrega antes de confirmar.
+- Para compras o servicios, acuerda entregables y plazos de revisión, confirma el estado de fondos protegidos y documenta cada entrega.
+- Abre una disputa dentro del plazo aplicable y antes de liberar cuando una entrega requiera revisión.
+- Acompaña los proyectos complejos o de alto valor con los contratos y la asesoría adecuados.
+- Consulta los [términos](https://paybrok.com/terms), la [guía de seguridad](security-es.md) y el [proceso de disputas](https://paybrok.com/disputes) para conocer responsabilidades y alcance de la protección.
 
 ## Documentacion
 

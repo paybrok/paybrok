@@ -46,7 +46,7 @@ Luego Paybrok agrega flujos protegidos:
 
 Muchas wallets solo guardan y envian activos. Muchos pagos locales dependen de confiar en una contraparte. Paybrok combina control de wallet con flujos practicos para pagos locales, servicios y coordinacion P2P.
 
-El resultado no es solo una wallet ni solo un marketplace. Es una experiencia de pagos donde autocustodia, QR, proveedores locales, escrow y disputas viven en el mismo producto.
+Autocustodia, QR, proveedores locales, escrow y revisión de disputas trabajan juntos en una misma experiencia de pago.
 
 ## Disponibilidad
 

@@ -34,5 +34,5 @@ Availability depends on configuration and provider support. Paybrok may support 
 
 ## Important Limitation
 
-Some QR systems only include a proprietary link. If the link does not expose bank account data, Paybrok cannot invent that data. In that case, Paybrok preserves the QR link/reference and shares it with compatible providers so they can complete the local payment through the appropriate app.
+Some QR systems only include a proprietary link. If the link does not expose bank account data, the payment uses the original link or reference. In that case, Paybrok preserves the QR link/reference and shares it with compatible providers so they can complete the local payment through the appropriate app.
 

@@ -33,7 +33,7 @@ Capabilities:
 - Encrypt the seed locally in the browser with a user-created password.
 - Unlock the wallet locally for sensitive actions.
 - Recover wallet state if browser metadata is partially lost but the encrypted vault remains.
-- Use Freighter as an advanced external signer where supported.
+- Sign locally with the Paybrok wallet.
 
 Limitations:
 

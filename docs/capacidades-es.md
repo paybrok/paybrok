@@ -33,7 +33,7 @@ Capacidades:
 - Cifrar la seed localmente en el navegador con una contrasena creada por el usuario.
 - Desbloquear localmente operaciones sensibles.
 - Recuperar la sesion si se pierde metadata del navegador pero la boveda cifrada sigue existiendo.
-- Usar Freighter como firmador externo avanzado cuando este disponible.
+- Firmar localmente con la wallet Paybrok.
 
 Limitaciones:
 

@@ -32,7 +32,7 @@ A payment flow where details are shared through a QR code so another user can sc
 
 A link that can carry payment request details such as destination, asset, amount, or note where supported.
 
-## Freighter
+## Web wallet
 
-A Stellar browser wallet. Freighter can be used as an optional tool for advanced users or selected web flows, but Paybrok is not Freighter and has its own native wallet experience.
+The Paybrok web wallet lets users create or restore an account and sign locally with an encrypted vault.
 
