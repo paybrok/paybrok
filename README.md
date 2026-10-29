@@ -199,7 +199,7 @@ Paybrok is designed around self-custody.
 - Escrow helps reduce counterparty risk.
 - Provider review, sanctions/risk controls, and dispute documentation support safer operations.
 
-Users must keep their recovery words safe. If a user loses the device/browser storage and does not have recovery words, Paybrok cannot recover the wallet.
+Keep your recovery words safe. If you can still access your wallet on a device, open Backup, authenticate locally and save the words. If both your backup and access to all devices are lost, Paybrok cannot reconstruct the keys.
 
 ## Plan Your Payment
 
