@@ -21,13 +21,13 @@ A user can:
 
 ## Self-Custody
 
-Paybrok is designed as a non-custodial product. Users control their wallet credentials. Paybrok does not store a user's seed phrase on Paybrok servers.
+Paybrok’s wallet uses self-custody: users control their keys and sign locally. Recovery words stay with the user. Protected payment separately locks funds in a Soroban contract; Paybrok’s designated administrator wallet can execute a dispute resolution under the published rules.
 
 This matters because users can use payment tools without handing over full custody of their wallet.
 
 ## Practical Payments
 
-Paybrok is not only a wallet screen. It is designed for practical situations:
+Paybrok connects wallet control with practical payment situations:
 
 - A merchant wants to collect with a QR.
 - A freelancer wants payment protection.
@@ -40,7 +40,7 @@ Paybrok is not only a wallet screen. It is designed for practical situations:
 
 Paybrok supports web and mobile experiences. Availability of specific features can vary by platform, country, provider liquidity, compliance review, and configuration.
 
-## Freighter
+## Web wallet
 
-Freighter can be useful for advanced Stellar users on web. Paybrok may support Freighter where appropriate, but Paybrok also has its own wallet and payment flows.
+The Paybrok web wallet lets users create or restore an account and sign locally with an encrypted vault.
 

@@ -50,9 +50,7 @@ Paybrok focuses on real-world payment workflows:
 
 ## Important Clarifications
 
-Paybrok operates in production, but does not present itself as a bank, custodial
-exchange, or public Stellar anchor. Availability depends on country, asset,
-provider liquidity, compliance review, and operational configuration.
+Paybrok brings Stellar payments into everyday use. Check the supported assets, routes, providers and conditions for your country and platform before confirming an operation.
 
 Paybrok LLC builds non-custodial payment software for Stellar wallets,
 protected payments, remittances, QR collections, and local provider workflows.

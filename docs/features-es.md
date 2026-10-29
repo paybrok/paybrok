@@ -18,7 +18,7 @@ Esta pagina lista las funciones publicas de Paybrok en lenguaje claro.
 - Guardar material sensible localmente en una boveda cifrada.
 - Desbloquear acciones sensibles con contrasena local.
 - Recuperar estado cuando la boveda cifrada sigue disponible.
-- Usar Freighter como firmador externo avanzado donde este soportado.
+- Firmar localmente con la wallet Paybrok.
 
 ## QR y Enlaces
 

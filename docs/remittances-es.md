@@ -20,9 +20,9 @@ Los flujos de remesa de Paybrok estan pensados para usuarios que quieren enviar 
 - Pagar a un destinatario por banco, wallet local o metodo local.
 - Usar proveedores aprobados en vez de enviar a ciegas.
 
-## Limitaciones
+## Disponibilidad Y Condiciones De Operación
 
 - La disponibilidad depende de pais, ruta, liquidez, metodo, compliance y limites.
-- Paybrok no garantiza que una ruta este siempre disponible.
+- Confirma en la app el Punto activo, el método de entrega y la cotización para tu ruta antes de proteger fondos.
 - Antes de proteger no hay nada que reembolsar. La recuperacion tecnica solo busca bloqueos antiguos no registrados.
 

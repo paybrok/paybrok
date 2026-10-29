@@ -1,8 +1,8 @@
 # Paybrok
 
-Paybrok is a wallet with local signing and a protected payment platform for people, merchants, freelancers, service providers, and local payment operators who need to use digital dollars in real life. Users control their wallet keys; protected funds are locked in Soroban contracts and disputes may be resolved by Paybrok's designated administrator wallet under the published rules.
+Paybrok is a non-custodial Stellar wallet and protected payments platform. Pay and get paid in digital dollars, collect with QR or links, and organize purchases and services with agreed milestones. You control your wallet keys and sign on your device. For Protected payment, funds are locked in a Soroban contract; Paybrok’s designated administrator wallet can execute a dispute resolution under the published rules.
 
-With Paybrok, a user can create a wallet, receive digital dollars, pay with QR, send funds, use local payment providers, protect a service payment with escrow, send money across routes where providers are available, and document disputes when something goes wrong.
+With Paybrok, a user can create a wallet, receive digital dollars, pay with QR, send funds, use local payment providers, protect a service payment with escrow, send money across routes where providers are available, and keep a clear record of agreements, deliveries and payments.
 
 > Paybrok helps people pay and get paid in digital dollars without giving up control of their wallet.
 
@@ -34,9 +34,7 @@ payments platform for Latin America. It supports real-world payment use cases
 such as QR payments, P2P orders, remittances, provider workflows, and milestone
 escrow for importers, freelancers, and service agreements.
 
-Paybrok operates in production, but does not present itself as a bank,
-custodial exchange, or public Stellar anchor. Availability depends on country,
-asset, provider liquidity, compliance review, and operational configuration.
+Paybrok brings Stellar payments into everyday use. Check the supported assets, routes, providers and conditions for your country and platform before confirming an operation.
 
 ## Public Identity and Stellar Verification
 
@@ -63,7 +61,7 @@ Paybrok brings these flows into one product: wallet, QR, P2P, escrow, service mi
 
 ## Why Paybrok Is Different
 
-Paybrok is not just another wallet, and it is not just a P2P listing board. Its strength is that it connects the full payment journey in one product.
+Paybrok connects wallet control, payment collection, local providers and protected agreements in one product.
 
 Many tools solve only one piece: storing funds, sending crypto, making QR requests, finding a local buyer, coordinating a remittance, or managing a service payment. Paybrok brings these layers together:
 
@@ -95,7 +93,7 @@ That combination is Paybrok's advantage: users can move from holding digital dol
 - Copy, share, or scan wallet/payment information.
 - Review movement history.
 - Use a web wallet with a local encrypted vault.
-- Use Freighter as an advanced web option where supported.
+- Sign locally with the Paybrok wallet.
 
 ### QR and Payment Links
 
@@ -203,14 +201,14 @@ Paybrok is designed around self-custody.
 
 Users must keep their recovery words safe. If a user loses the device/browser storage and does not have recovery words, Paybrok cannot recover the wallet.
 
-## What Paybrok Is Not
+## Plan Your Payment
 
-- Paybrok is not a bank.
-- Paybrok is not a centralized exchange.
-- Paybrok does not guarantee local liquidity or exchange rates.
-- Paybrok does not guarantee that every provider, country, asset, or route is always available.
-- Paybrok does not replace a formal legal contract for high-value services.
-- Paybrok does not make users immune to fraud; it provides safer structure, escrow, evidence, and review flows.
+- Choose the available asset, route and provider for your country and platform.
+- Review the quoted rate, fees, limits and delivery terms before confirming.
+- For purchases or services, agree on deliverables and review periods, confirm that funds are protected, and document each delivery.
+- Open a dispute within the applicable review window and before release when the agreed delivery needs review.
+- For complex or high-value work, include the supporting contracts and professional advice appropriate to the transaction.
+- Consult the [terms](https://paybrok.com/terms), [security guide](docs/security.md) and [dispute process](https://paybrok.com/disputes) for responsibilities and the scope of protection.
 
 ## Documentation
 

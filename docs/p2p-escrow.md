@@ -4,7 +4,7 @@ Paybrok Local is the P2P layer that connects users with approved providers for l
 
 ## Why Escrow Matters
 
-Without escrow, a user may have to trust an unknown counterparty. Escrow reduces that risk by locking funds until the expected action is completed.
+Escrow gives both parties an agreed payment process: funds are locked while the delivery is completed, then released under the accepted rules. Confirm the protected status before starting work and review the delivery before release.
 
 ## Basic Flow
 
@@ -34,7 +34,7 @@ Where enabled, Paybrok can use Soroban escrow for more transparent on-chain escr
 
 ## Important Limitations
 
-- Paybrok does not guarantee that every order will find a provider.
+- An order is matched when a provider accepts its amount, method and terms with available liquidity.
 - Provider availability depends on country, method, limits, liquidity, compliance review, and risk.
-- Escrow reduces risk but does not eliminate all operational, fraud, or legal risk.
+- Escrow governs the funds; delivery verification, supporting evidence and compliance with applicable requirements remain part of each transaction. Review the [terms](https://paybrok.com/terms) and [dispute process](https://paybrok.com/en/disputes).
 

@@ -22,7 +22,7 @@ On web, Paybrok supports:
 - Paybrok web wallet with local encrypted vault.
 - Local password for unlocking sensitive wallet actions.
 - Recovery with seed/recovery words if local browser storage is lost.
-- Freighter as an advanced external signing option.
+- Sign locally with the Paybrok wallet.
 
 ## Recovery
 

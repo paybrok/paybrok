@@ -88,4 +88,4 @@ Paybrok aplica controles operativos para apoyar uso mas seguro:
 - Restriccion de actividad sospechosa.
 - Revision manual cuando corresponda.
 
-Estos controles ayudan, pero no garantizan que toda contraparte sea segura ni que toda orden termine exitosamente.
+Estos controles apoyan la revisión de proveedores y el seguimiento de operaciones. Verifica contraparte, acreditación del pago y evidencia de entrega en cada orden; la revisión de un proveedor es un proceso de la plataforma, no un seguro ni una garantía de cumplimiento.

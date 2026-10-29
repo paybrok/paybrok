@@ -1,58 +1,36 @@
-# Market Positioning
+# Paybrok Positioning
 
-Paybrok is positioned as a practical non-custodial payment platform, not only as a wallet.
+Paybrok is a non-custodial Stellar wallet and protected payments platform for paying and getting paid in digital dollars.
 
-## The Gap
+## Core Message
 
-Many crypto wallets are powerful but hard for everyday users. Many simple money apps are easy but custodial. Many P2P flows depend too much on trust, chat, and manual proof.
+**Your digital dollars, ready for payments. Agree on each delivery and organize your payments with protection.**
 
-Paybrok is designed for the space between those worlds:
+You control your wallet keys and sign on your device. In Protected payment, funds are locked in a Soroban contract and released under the agreement. During a dispute, Paybrok’s designated administrator wallet can execute the resolution under the published rules.
 
-- Simple payment experience.
-- User-controlled wallet.
-- Local provider workflows.
-- Escrow protection.
-- Disputes and evidence.
-- QR and payment links.
-- Service milestones.
+## What You Can Do
 
-## Who Benefits
+- Send and receive supported assets on Stellar.
+- Collect with QR or links and review receipts.
+- Buy USDC through available P2P offers on Web and Android.
+- Agree on purchases and services with deliverables, review periods and milestone payments.
+- Coordinate remittances and local delivery with available Points.
+- Review agreement history and provide evidence when a delivery needs review.
 
-- Users who want digital dollars but need practical local payment flows.
-- Merchants who want simple QR/link collection.
-- Freelancers and service providers who want payment confidence.
-- Clients who want protection before releasing funds.
-- Local providers who want structured order flow.
-- Communities that need safer P2P coordination.
+## Who It Serves
 
-## Competitive Advantage
+- People using digital dollars to pay and receive funds.
+- Merchants collecting with QR or links.
+- Freelancers and professionals agreeing on deliveries and payments.
+- Importers and buyers organizing milestone payments.
+- Providers serving local orders according to their capacity and liquidity.
 
-Paybrok's advantage is the combination of features that are often separated across different products:
+## How to Explain It
 
-- Wallet.
-- QR collection.
-- Payment links.
-- P2P.
-- Escrow.
-- Remittances.
-- Service contracts.
-- Disputes.
-- Providers.
-- Notifications.
-- Compliance-oriented controls.
+Start with the use case and explain the mechanism: who signs, when funds become protected and how each payment is released. Present fees, availability and rules alongside the relevant step. Explain backup and recovery for keeping wallet access. For a disagreement, explain when to open a dispute and what evidence to include.
 
-This makes Paybrok more than a balance screen. A user can hold digital dollars, request payment, pay a local QR, create a protected service payment, use a provider, open a dispute, and follow the order lifecycle without jumping across disconnected tools.
+Self-custody describes the wallet; Protected payment follows contract and dispute-resolution rules. Availability is checked by country, platform, asset and provider. Statements about integrations or authorizations must match current documentation and enabled features.
 
-The product aims to make digital dollars usable in everyday situations without forcing users to choose between self-custody and practical payment coordination.
+## Information for Your Decision
 
-## Strong Differentiators
-
-- Paybrok turns self-custody into a payment experience, not just wallet storage.
-- Paybrok adds escrow and disputes to P2P and service payments, reducing blind trust.
-- Paybrok supports service milestones, which makes it useful for freelancers, professionals, and clients.
-- Paybrok connects local QR/payment-link data with provider workflows where possible.
-- Paybrok uses provider review and risk controls to make local payment operations more structured.
-- Paybrok combines local encrypted vault behavior, local unlock protections, and repeated-attempt protection concepts for sensitive wallet flows.
-- Paybrok includes sanctions/risk controls and dispute documentation as part of the operational safety layer.
-- Paybrok keeps Freighter as an advanced option, while preserving its own wallet and payment flows.
-- Paybrok is built for real-world payment use cases: merchants, local providers, remittances, service work, and everyday digital-dollar movement.
+Read the [terms](https://paybrok.com/terms), [security guide](security.md) and [dispute process](https://paybrok.com/en/disputes). A confirmed direct transfer is final; choose Protected payment from the start when payment depends on delivery.

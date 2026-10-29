@@ -4,7 +4,7 @@ Paybrok Local es la capa P2P que conecta usuarios con proveedores aprobados para
 
 ## Por Que Importa El Escrow
 
-Sin escrow, un usuario puede depender demasiado de confiar en una contraparte desconocida. El escrow reduce ese riesgo bloqueando fondos hasta que se cumpla la accion esperada.
+El escrow da a ambas partes un proceso de pago acordado: los fondos quedan bloqueados durante la entrega y se liberan conforme a las reglas aceptadas. Confirma el estado protegido antes de empezar y revisa la entrega antes de liberar.
 
 ## Flujo Basico
 
@@ -32,9 +32,9 @@ Soporte Paybrok puede revisar evidencia y decidir si libera, reembolsa o mantien
 
 Donde este habilitado, Paybrok puede usar escrow Soroban para flujos on-chain mas transparentes. La disponibilidad depende del activo, configuracion y preparacion operativa.
 
-## Limitaciones
+## Disponibilidad Y Condiciones De Operación
 
-- Paybrok no garantiza que toda orden encuentre proveedor.
+- Una orden se concreta cuando un proveedor acepta su monto, método y condiciones con liquidez disponible.
 - La disponibilidad depende de pais, metodo, limites, liquidez, compliance y riesgo.
-- El escrow reduce riesgo, pero no elimina todo riesgo operativo, fraude o riesgo legal.
+- El escrow regula los fondos; verificar entregas, conservar evidencia y cumplir los requisitos aplicables sigue formando parte de cada operación. Consulta los [términos](https://paybrok.com/terms) y el [proceso de disputas](https://paybrok.com/disputes).
 

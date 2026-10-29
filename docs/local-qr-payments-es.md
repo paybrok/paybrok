@@ -34,5 +34,5 @@ La disponibilidad depende de configuracion y proveedores. Paybrok puede soportar
 
 ## Limitacion Importante
 
-Algunos QR solo incluyen un link propietario. Si el link no expone datos bancarios, Paybrok no puede inventarlos. En ese caso conserva el link o referencia y lo comparte con proveedores compatibles para completar el pago local desde la app correspondiente.
+Algunos QR solo incluyen un link propietario. Si el link no expone datos bancarios, el pago utiliza el enlace o referencia original. En ese caso conserva el link o referencia y lo comparte con proveedores compatibles para completar el pago local desde la app correspondiente.
 

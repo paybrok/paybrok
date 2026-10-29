@@ -18,7 +18,7 @@ This page lists Paybrok's public product features in human terms.
 - Store wallet material locally in an encrypted browser vault.
 - Unlock sensitive actions with a local password.
 - Recover wallet state when the encrypted vault remains available.
-- Use Freighter as an advanced external signer where supported.
+- Sign locally with the Paybrok wallet.
 
 ## QR and Payment Links
 

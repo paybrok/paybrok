@@ -59,7 +59,7 @@ A service order should clearly define:
 - What counts as a valid delivery.
 - How communication and evidence will be documented.
 
-## What Paybrok Does Not Do
+## Supporting Documents
 
-Paybrok does not replace a formal legal contract for complex projects. For high-value work, users should also have a written agreement outside the app.
+For complex or high-value work, complement the Paybrok agreement with the written contracts, specifications and professional advice appropriate to the project. Keep those documents with the delivery evidence.
 
