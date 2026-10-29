@@ -21,6 +21,16 @@ Official website: https://paybrok.com
 
 Public documentation sitemap: https://paybrok.github.io/paybrok/sitemap.xml
 
+## Community and public channels
+
+Follow product updates and join the conversation about Paybrok through these public channels.
+
+- [Reddit — Paybrok | Mario Montaño](https://www.reddit.com/user/Signal_You6871/)
+- [LinkedIn — Paybrok](https://www.linkedin.com/company/paybrok/)
+- [Telegram — Paybrok Local LATAM](https://t.me/paybroklocal)
+- [GitHub — Paybrok](https://github.com/paybrok/paybrok)
+
+
 ## Paybrok on Stellar
 
 Paybrok operates in production and is built on the Stellar public network for

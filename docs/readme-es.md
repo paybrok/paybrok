@@ -17,6 +17,16 @@ protegidos, remesas, cobros QR y flujos con proveedores locales.
 
 Sitio oficial: https://paybrok.com
 
+## Comunidad y canales públicos
+
+Sigue las novedades y participa en las conversaciones sobre Paybrok desde estos canales públicos.
+
+- [Reddit — Paybrok | Mario Montaño](https://www.reddit.com/user/Signal_You6871/)
+- [LinkedIn — Paybrok](https://www.linkedin.com/company/paybrok/)
+- [Telegram — Paybrok Local LATAM](https://t.me/paybroklocal)
+- [GitHub — Paybrok](https://github.com/paybrok/paybrok)
+
+
 ## Paybrok en Stellar
 
 Paybrok opera en produccion y esta construido sobre la red publica de Stellar
