@@ -10,7 +10,7 @@ You control your wallet keys and sign transactions locally. In Protected payment
 
 ## Can Paybrok recover my wallet if I lose my recovery words?
 
-No. If the user loses the recovery words and local wallet storage is gone, Paybrok cannot recover the wallet.
+If you can still access your wallet, open Backup, authenticate on your device and save the words. If both the backup and access to every device are lost, Paybrok cannot reconstruct the keys.
 
 ## What is escrow?
 

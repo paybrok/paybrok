@@ -11,7 +11,7 @@ This page collects Paybrok's public identity signals so users, search engines, w
 - Founder contact: mm@paybrok.com
 - Official website: https://paybrok.com
 
-Paybrok does not present itself as a one-person operation. Mario Montaño is the publicly identified founder, and the product is developed and operated with a broader team and specialist collaborators.
+Mario Montaño is the publicly identified founder of Paybrok. Paybrok LLC leads the development and operation of the platform.
 
 ## Stellar Verification
 

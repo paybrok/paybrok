@@ -208,7 +208,7 @@ Users must keep their recovery words safe. If a user loses the device/browser st
 - For purchases or services, agree on deliverables and review periods, confirm that funds are protected, and document each delivery.
 - Open a dispute within the applicable review window and before release when the agreed delivery needs review.
 - For complex or high-value work, include the supporting contracts and professional advice appropriate to the transaction.
-- Consult the [terms](https://paybrok.com/terms), [security guide](docs/security.md) and [dispute process](https://paybrok.com/disputes) for responsibilities and the scope of protection.
+- Consult the [terms](https://paybrok.com/terms), [security guide](docs/security.md) and [dispute process](https://paybrok.com/en/disputes) for responsibilities and the scope of protection.
 
 ## Documentation
 

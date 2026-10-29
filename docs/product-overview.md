@@ -30,10 +30,10 @@ Paybrok can serve:
 The basic experience starts with a wallet:
 
 1. Create or restore a wallet.
-2. Receive funds.
-3. Send funds.
-4. Charge with QR or link.
-5. Review movements.
+2. Open Prepare wallet, select the asset and wait until ready.
+3. Receive funds over Stellar.
+4. Send funds or collect with QR or a link.
+5. Review confirmed movements.
 
 From there, Paybrok expands into protected flows:
 

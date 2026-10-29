@@ -20,14 +20,14 @@ Example milestones:
 
 ## Flow
 
-1. The client enters "Pay for a service".
+1. Either party opens Protected payment and chooses whether to pay or get paid.
 2. The client chooses a category such as Architecture.
 3. The client defines amount, asset, title, details, milestones, and agreement rules.
-4. A provider accepts or is matched according to availability.
-5. Funds are locked in escrow.
+4. The creator shares the agreement link and the counterparty reviews and accepts the terms.
+5. The payer signs to protect funds. Both parties confirm Funds protected status before delivery starts.
 6. The provider delivers each milestone and marks the service as ready.
 7. The client reviews the delivery and releases the corresponding payment when satisfied.
-8. If the work is not delivered, the client may open a dispute with evidence.
+8. If delivery needs review, either party can open a dispute with evidence before release and within the review period.
 
 ## Agreement Rules
 

@@ -24,6 +24,10 @@ On web, Paybrok supports:
 - Recovery with seed/recovery words if local browser storage is lost.
 - Sign locally with the Paybrok wallet.
 
+## Prepare an Asset Before Receiving
+
+Open Prepare wallet, choose the asset and wait until it is ready. When available, sponsored preparation covers the required account and asset reserves; it does not add spendable XLM. Only the selected asset is prepared. Use the same asset and Stellar network at both ends of a transfer.
+
 ## Recovery
 
 Users must keep their recovery words safe.
@@ -37,7 +41,7 @@ Paybrok will never ask for recovery words through:
 - Social media.
 - Provider message.
 
-If a user loses the device or browser storage and does not have recovery words, Paybrok cannot recover the wallet.
+If you can still access the wallet on another device, open Backup and save the recovery words after authenticating locally. If both your backup and access to all devices are lost, Paybrok cannot reconstruct the keys.
 
 ## Supported Assets
 
