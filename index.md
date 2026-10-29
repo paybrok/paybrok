@@ -26,3 +26,13 @@ Paybrok brings together wallet, QR payments, payment links, P2P local liquidity,
 Official website: [paybrok.com](https://paybrok.com)
 
 Search sitemap: [paybrok.github.io/paybrok/sitemap.xml](https://paybrok.github.io/paybrok/sitemap.xml)
+
+## Community and public channels
+
+Follow product updates and join the conversation about Paybrok through these public channels.
+
+- [Reddit — Paybrok | Mario Montaño](https://www.reddit.com/user/Signal_You6871/)
+- [LinkedIn — Paybrok](https://www.linkedin.com/company/paybrok/)
+- [Telegram — Paybrok Local LATAM](https://t.me/paybroklocal)
+- [GitHub — Paybrok](https://github.com/paybrok/paybrok)
+
