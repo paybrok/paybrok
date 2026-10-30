@@ -22,6 +22,8 @@ Sitio oficial: https://paybrok.com
 Sigue las novedades y participa en las conversaciones sobre Paybrok desde estos canales públicos.
 
 - [Reddit — Paybrok | Mario Montaño](https://www.reddit.com/user/Signal_You6871/)
+- [Instagram — Paybrok](https://www.instagram.com/paybrok/)
+- [Facebook — Paybrok](https://www.facebook.com/people/Paybrok/61591824895863/)
 - [LinkedIn — Paybrok](https://www.linkedin.com/company/paybrok/)
 - [Telegram — Paybrok Local LATAM](https://t.me/paybroklocal)
 - [GitHub — Paybrok](https://github.com/paybrok/paybrok)

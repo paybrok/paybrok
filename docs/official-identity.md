@@ -29,6 +29,8 @@ The institutional account declares `paybrok.com` on-chain, and `paybrok.com` pub
 - Website: https://paybrok.com
 - Official accounts: https://paybrok.com/official-accounts
 - Reddit: https://www.reddit.com/user/Signal_You6871/
+- Instagram: https://www.instagram.com/paybrok/
+- Facebook: https://www.facebook.com/people/Paybrok/61591824895863/
 - LinkedIn: https://www.linkedin.com/company/paybrok/
 - Telegram community: https://t.me/paybroklocal
 - GitHub: https://github.com/paybrok/paybrok

@@ -26,6 +26,8 @@ Public documentation sitemap: https://paybrok.github.io/paybrok/sitemap.xml
 Follow product updates and join the conversation about Paybrok through these public channels.
 
 - [Reddit — Paybrok | Mario Montaño](https://www.reddit.com/user/Signal_You6871/)
+- [Instagram — Paybrok](https://www.instagram.com/paybrok/)
+- [Facebook — Paybrok](https://www.facebook.com/people/Paybrok/61591824895863/)
 - [LinkedIn — Paybrok](https://www.linkedin.com/company/paybrok/)
 - [Telegram — Paybrok Local LATAM](https://t.me/paybroklocal)
 - [GitHub — Paybrok](https://github.com/paybrok/paybrok)
